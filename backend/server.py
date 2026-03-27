@@ -217,6 +217,46 @@ Pour chaque script (numéroté de 1 à 20):
 - Script court (15-30 secondes max)
 - CTA direct et agressif
 
+class Affiliate(BaseModel):
+    model_config = ConfigDict(extra="ignore")
+    id: str = Field(default_factory=lambda: str(uuid.uuid4()))
+    code: str  # Unique affiliate code
+    name: str
+    email: str
+    commission_rate: float = 20.0  # 20% commission
+    total_clicks: int = 0
+    total_conversions: int = 0
+    total_earnings: float = 0.0
+    status: str = "active"  # active, suspended
+    created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+
+class AffiliateCreate(BaseModel):
+    name: str
+    email: str
+
+class AffiliateClick(BaseModel):
+    model_config = ConfigDict(extra="ignore")
+    id: str = Field(default_factory=lambda: str(uuid.uuid4()))
+    affiliate_code: str
+    visitor_id: str
+    product_id: Optional[str] = None
+    converted: bool = False
+    order_id: Optional[str] = None
+    commission_earned: float = 0.0
+    created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+
+class AffiliateContent(BaseModel):
+    model_config = ConfigDict(extra="ignore")
+    id: str = Field(default_factory=lambda: str(uuid.uuid4()))
+    content_type: str  # post, story, email, ad
+    title: str
+    content: str
+    platform: str  # tiktok, instagram, facebook, email
+    product_id: Optional[str] = None
+    performance_score: Optional[float] = None
+    created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+
+
 Format:
 SCRIPT 1:
 HOOK: [hook puissant]
