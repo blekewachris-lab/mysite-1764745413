@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-27T11:30:45.015693",
+  "timestamp": "2026-03-27T12:36:14.424207",
   "summary": {
-    "tests_run": 9,
-    "tests_passed": 9,
+    "tests_run": 15,
+    "tests_passed": 15,
     "success_rate": 100.0
   },
   "detailed_results": [
@@ -25,8 +25,64 @@
       "expected_status": 200,
       "actual_status": 200,
       "success": true,
-      "response_size": 2,
-      "response_data": []
+      "response_size": 2148,
+      "response_data": [
+        {
+          "id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "name": "Galaxy Projector Light",
+          "prix_achat": 12.0,
+          "prix_vente": 39.0,
+          "image_url": "https://images.unsplash.com/photo-1595565302791-ec72c034cf5c",
+          "description": "Projecteur galaxie LED avec rotation \u00e0 360\u00b0",
+          "cible": "18-35 ans, passionn\u00e9s de d\u00e9co/ambiance",
+          "angle_marketing": "Transformez votre chambre en galaxie",
+          "created_at": "2026-03-27T11:32:08.978902Z"
+        },
+        {
+          "id": "5bd8941d-6cd6-40c5-b457-1efd42fa7987",
+          "name": "Wireless Earbuds Pro",
+          "prix_achat": 8.0,
+          "prix_vente": 29.0,
+          "image_url": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NTN8MHwxfHNlYXJjaHwxfHx3aXJlbGVzcyUyMGVhcmJ1ZHN8ZW58MHx8fHwxNzc0NjA5ODE1fDA&ixlib=rb-4.1.0&q=85",
+          "description": "\u00c9couteurs sans fil avec r\u00e9duction de bruit",
+          "cible": "16-40 ans, utilisateurs smartphone",
+          "angle_marketing": "Son premium sans se ruiner",
+          "created_at": "2026-03-27T12:33:09.616149Z"
+        },
+        {
+          "id": "23a37e3c-7ec1-44c3-9b65-7ec6b0189ef2",
+          "name": "Portable Blender",
+          "prix_achat": 15.0,
+          "prix_vente": 45.0,
+          "image_url": "https://images.pexels.com/photos/5514988/pexels-photo-5514988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "description": "Blender portable rechargeable USB",
+          "cible": "20-45 ans, fitness/sant\u00e9",
+          "angle_marketing": "Smoothies partout, toujours",
+          "created_at": "2026-03-27T12:33:09.762045Z"
+        },
+        {
+          "id": "69f77708-248a-4264-8a3d-4b8c18207954",
+          "name": "Smart Fitness Watch",
+          "prix_achat": 14.0,
+          "prix_vente": 49.0,
+          "image_url": "https://images.pexels.com/photos/4482932/pexels-photo-4482932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "description": "Montre connect\u00e9e sport et sant\u00e9",
+          "cible": "18-50 ans, sportifs",
+          "angle_marketing": "Votre coach au poignet",
+          "created_at": "2026-03-27T12:33:09.877122Z"
+        },
+        {
+          "id": "56067b9b-96b8-4d8e-8687-e559f1733d6e",
+          "name": "Resistance Band Set",
+          "prix_achat": 5.0,
+          "prix_vente": 25.0,
+          "image_url": "https://images.pexels.com/photos/6667512/pexels-photo-6667512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "description": "Set de bandes \u00e9lastiques musculation",
+          "cible": "18-55 ans, fitness \u00e0 domicile",
+          "angle_marketing": "Salle de sport dans votre salon",
+          "created_at": "2026-03-27T12:33:09.984583Z"
+        }
+      ]
     },
     {
       "test_name": "Create Product",
@@ -37,7 +93,7 @@
       "success": true,
       "response_size": 306,
       "response_data": {
-        "id": "4c95a74d-7766-49c8-b5e9-2844d14ad285",
+        "id": "1449952a-209a-4f35-87b5-dde7703239c0",
         "name": "Test Product API",
         "prix_achat": 10.0,
         "prix_vente": 25.0,
@@ -45,12 +101,12 @@
         "description": "Test product for API testing",
         "cible": "Test audience",
         "angle_marketing": "Test marketing angle",
-        "created_at": "2026-03-27T11:30:44.441985Z"
+        "created_at": "2026-03-27T12:34:57.514976Z"
       }
     },
     {
       "test_name": "Delete Product",
-      "endpoint": "products/4c95a74d-7766-49c8-b5e9-2844d14ad285",
+      "endpoint": "products/1449952a-209a-4f35-87b5-dde7703239c0",
       "method": "DELETE",
       "expected_status": 200,
       "actual_status": 200,
@@ -95,6 +151,312 @@
           "updated_at": "2026-03-27T11:30:44.459459+00:00"
         }
       ]
+    },
+    {
+      "test_name": "Generate TikTok Scripts",
+      "endpoint": "generate/tiktok-scripts",
+      "method": "POST",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 50,
+      "response_data": {
+        "message": "20 scripts TikTok g\u00e9n\u00e9r\u00e9s",
+        "count": 20
+      }
+    },
+    {
+      "test_name": "Get TikTok Scripts",
+      "endpoint": "tiktok-scripts/4adb5f46-b776-48d9-8662-c6980362f0df",
+      "method": "GET",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 9841,
+      "response_data": [
+        {
+          "id": "f7768dc9-d723-46b9-afe7-50f8ffa03d91",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cRegarde \u00e7a. *Clique*\u2026 et BOOM: galaxie au plafond. Rotation 360\u00b0, ambiance cin\u00e9, chill, date, tout. Tu passes de \u2018chambre\u2019 \u00e0 \u2018univers\u2019 en 3 secondes. Et oui, c\u2019est un vrai projecteur LED, pas un filtre.\u201d",
+          "hook": "\u201cStop. Ta chambre est trop\u2026 normale.\u201d",
+          "cta": "\u201cClique et commande maintenant. \u00c0 39\u20ac, tu prends l\u2019ambiance ou tu gardes tes murs tristes.\u201d",
+          "created_at": "2026-03-27T12:35:36.950277Z"
+        },
+        {
+          "id": "164e6a67-4ef3-49a8-9418-b6e04e494f5b",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cAvant: plafonnier \u00e9clat\u00e9. Apr\u00e8s: n\u00e9buleuse + \u00e9toiles, rotation 360\u00b0, mood instant. Tu le poses, tu l\u2019allumes, et ton cerveau se calme direct. Parfait pour dormir, lire, ou juste flex sur Insta.\u201d",
+          "hook": "\u201cSi tu dors sans \u00e7a, tu rates quelque chose.\u201d",
+          "cta": "\u201cPrends-le maintenant. 39\u20ac pour transformer ta chambre\u2014go avant rupture.\u201d",
+          "created_at": "2026-03-27T12:35:36.951362Z"
+        },
+        {
+          "id": "1c47a4ff-70b4-4bfc-b484-686f8346a1fc",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cJe te montre le hack d\u00e9co le plus simple: projecteur galaxie LED. Tu changes compl\u00e8tement l\u2019ambiance sans repeindre, sans meuble, sans travaux. Juste *on*\u2026 et \u00e7a tourne \u00e0 360\u00b0.\u201d",
+          "hook": "\u201cPOV: tu veux une chambre Pinterest\u2026 en 10 secondes.\u201d",
+          "cta": "\u201cAjoute au panier maintenant. Si t\u2019attends, tu vas regretter quand ce sera sold out.\u201d",
+          "created_at": "2026-03-27T12:35:36.951946Z"
+        },
+        {
+          "id": "a9966b8c-1cc6-4072-8c0c-f3231c0389e9",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cLumi\u00e8re normale = cringe. Galaxie au plafond = ambiance. Tu lances la rotation 360\u00b0, tu baisses la lumi\u00e8re, et c\u2019est fini\u2026 t\u2019as cr\u00e9\u00e9 un mood de film. M\u00eame une chambre simple devient premium.\u201d",
+          "hook": "\u201cTon date arrive? Mets \u00c7A.\u201d",
+          "cta": "\u201cCommande maintenant. 39\u20ac et t\u2019as l\u2019arme secr\u00e8te.\u201d",
+          "created_at": "2026-03-27T12:35:36.952386Z"
+        },
+        {
+          "id": "f358884a-4416-42be-92a0-e9eba86fcbf1",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cReady? 1\u2026 2\u2026 3\u2026 *click* Regarde le plafond. Galaxie + rotation 360\u00b0 = immersion totale. C\u2019est litt\u00e9ralement la d\u00e9co la plus rentable que j\u2019ai achet\u00e9e.\u201d",
+          "hook": "\u201cLe test: 3 secondes et tu vas vouloir l\u2019acheter.\u201d",
+          "cta": "\u201cClique, prends-le. 39\u20ac pour ce rendu, c\u2019est ind\u00e9cent\u2014d\u00e9p\u00eache-toi.\u201d",
+          "created_at": "2026-03-27T12:35:36.952769Z"
+        },
+        {
+          "id": "24a24505-d9f7-4dcc-9567-8065b1994499",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cOk, pas \u2018sans budget\u2019\u2026 mais 39\u20ac pour passer en mode galaxie, c\u2019est cadeau. LED, effet spatial, rotation 360\u00b0, parfait pour chill, gaming, ou story du soir.\u201d",
+          "hook": "\u201cTu veux glow-up ta chambre SANS budget?\u201d",
+          "cta": "\u201cCommande maintenant. Stop procrastiner, ton futur toi te remerciera.\u201d",
+          "created_at": "2026-03-27T12:35:36.953252Z"
+        },
+        {
+          "id": "5921ddcf-328c-44ce-ac5b-e9ae09a32110",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cAlors que non. C\u2019est ce projecteur galaxie. Tu le poses et il projette une n\u00e9buleuse qui tourne \u00e0 360\u00b0. R\u00e9sultat: chambre premium, effort z\u00e9ro. Tout le monde me demande o\u00f9 je l\u2019ai eu.\u201d",
+          "hook": "\u201cLes gens pensent que c\u2019est un plafond LED \u00e0 500\u20ac.\u201d",
+          "cta": "\u201cVa le prendre maintenant. 39\u20ac, et tu flex ce soir.\u201d",
+          "created_at": "2026-03-27T12:35:36.953618Z"
+        },
+        {
+          "id": "292a543b-4781-4b0d-96d1-a6ad6b736e86",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cJe te jure, c\u2019est hypnotisant. Tu allumes, \u00e7a tourne doucement \u00e0 360\u00b0, et t\u2019as une galaxie au-dessus de toi. C\u2019est le meilleur upgrade ambiance pour d\u00e9connecter apr\u00e8s une journ\u00e9e longue.\u201d",
+          "hook": "\u201cSi t\u2019es stress\u00e9, regarde \u00e7a.\u201d",
+          "cta": "\u201cAch\u00e8te-le maintenant. Pas demain. Maintenant.\u201d",
+          "created_at": "2026-03-27T12:35:36.954050Z"
+        },
+        {
+          "id": "38a35cdf-78e9-4180-b108-aab94edc6254",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cTu veux des vid\u00e9os qui claquent? Mets le projecteur, filme le plafond, laisse la rotation 360\u00b0 faire le travail. \u00c7a donne un rendu spatial trop clean. M\u00eame un mur blanc devient un d\u00e9cor.\u201d",
+          "hook": "\u201cCe gadget rend ta chambre \u2018instagrammable\u2019 direct.\u201d",
+          "cta": "\u201cClique et commande. 39\u20ac et tu boostes ton contenu d\u00e8s ce soir.\u201d",
+          "created_at": "2026-03-27T12:35:36.954514Z"
+        },
+        {
+          "id": "3b7ad292-f035-4bd4-94d1-60f7a888af35",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cRegarde l\u2019effet galaxie\u2026 et la rotation 360\u00b0 qui remplit toute la pi\u00e8ce. C\u2019est le genre de truc qui te fait rester dans ta chambre juste pour kiffer l\u2019ambiance.\u201d",
+          "hook": "\u201cJe parie que t\u2019as jamais vu une ambiance comme \u00e7a chez toi.\u201d",
+          "cta": "\u201cPrends-le maintenant. 39\u20ac\u2014si tu h\u00e9sites, quelqu\u2019un d\u2019autre l\u2019ach\u00e8te.\u201d",
+          "created_at": "2026-03-27T12:35:36.954869Z"
+        },
+        {
+          "id": "d0db8ec3-8048-4c87-b569-7c15c8196f03",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cRGB partout? Ok. Mais l\u00e0, c\u2019est l\u2019upgrade ultime: galaxie au plafond + rotation 360\u00b0. Ton setup devient une sc\u00e8ne. Tu joues, tu streams, t\u2019as une ambiance de fou sans effort.\u201d",
+          "hook": "\u201cTon setup gaming m\u00e9rite mieux que \u00e7a.\u201d",
+          "cta": "\u201cAjoute au panier maintenant. 39\u20ac pour ce niveau, c\u2019est obligatoire.\u201d",
+          "created_at": "2026-03-27T12:35:36.955244Z"
+        },
+        {
+          "id": "509aa90d-96e6-431a-b933-7fd3e8f457bd",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cC\u2019est juste une lumi\u00e8re. Ce projecteur galaxie LED transforme tout: plafond, murs, vibe. Rotation 360\u00b0, effet immersif, et tu passes en mode cocon.\u201d",
+          "hook": "\u201cLa diff\u00e9rence entre une chambre \u2018ok\u2019 et une chambre \u2018wow\u2019.\u201d",
+          "cta": "\u201cCommande maintenant. 39\u20ac et t\u2019as ton \u2018wow\u2019 en une nuit.\u201d",
+          "created_at": "2026-03-27T12:35:36.955736Z"
+        },
+        {
+          "id": "593a324e-45d1-4720-90cf-e4a72e20b36c",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cTu coupes la lumi\u00e8re, tu l\u2019allumes, et t\u2019as une galaxie qui bouge \u00e0 360\u00b0. C\u2019est parfait pour Netflix, musique, ou juste chill sous les \u00e9toiles.\u201d",
+          "hook": "\u201cTon plafond = \u00e9cran de cin\u00e9ma\u2026 mais version univers.\u201d",
+          "cta": "\u201cClique, ach\u00e8te. 39\u20ac\u2014et arr\u00eate de vivre dans une chambre boring.\u201d",
+          "created_at": "2026-03-27T12:35:36.956056Z"
+        },
+        {
+          "id": "bb5e8ace-b4ba-4244-80ab-cb19af302d96",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cTu veux offrir un truc qui fait vraiment un effet \u2018WTF\u2019? Projecteur galaxie LED. Tu l\u2019allumes: galaxie instant, rotation 360\u00b0. Tout le monde adore, m\u00eame ceux qui \u2018aiment pas la d\u00e9co\u2019.\u201d",
+          "hook": "\u201cLe cadeau parfait\u2026 m\u00eame pour toi.\u201d",
+          "cta": "\u201cCommande maintenant. 39\u20ac et t\u2019es s\u00fbr de faire plaisir\u2014d\u00e9p\u00eache.\u201d",
+          "created_at": "2026-03-27T12:35:36.956441Z"
+        },
+        {
+          "id": "86f6d726-13ce-4503-b3d0-4108bc9aa730",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cTu vois cette ambiance? C\u2019est pas un montage. C\u2019est le projecteur galaxie en rotation 360\u00b0. \u00c7a change l\u2019\u00e9nergie d\u2019une pi\u00e8ce direct. T\u2019as l\u2019impression d\u2019\u00eatre ailleurs.\u201d",
+          "hook": "\u201cNe scroll pas: regarde le plafond.\u201d",
+          "cta": "\u201cPrends-le maintenant. 39\u20ac\u2014et ce soir tu dors dans une galaxie.\u201d",
+          "created_at": "2026-03-27T12:35:36.956676Z"
+        },
+        {
+          "id": "c7ad5477-4b1c-4f43-a60c-1c7388634669",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cPas le droit de percer, pas envie de d\u00e9penser? Parfait. Tu poses juste le projecteur, et tu transformes tout. Galaxie LED + rotation 360\u00b0 = ambiance premium sans travaux.\u201d",
+          "hook": "\u201cLa meilleure d\u00e9co quand t\u2019es en appart.\u201d",
+          "cta": "\u201cAch\u00e8te maintenant. 39\u20ac et t\u2019as une transformation instantan\u00e9e.\u201d",
+          "created_at": "2026-03-27T12:35:36.957102Z"
+        },
+        {
+          "id": "2fa338c4-65d5-4af8-9b8b-c47290c257d8",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cOk, regarde: je ferme les rideaux\u2026 j\u2019allume\u2026 et voil\u00e0. Galaxie au plafond, rotation 360\u00b0, lumi\u00e8re douce. C\u2019est litt\u00e9ralement le mode \u2018d\u00e9tente\u2019 automatique.\u201d",
+          "hook": "\u201cTu veux une chambre \u2018cozy\u2019 en 20 secondes?\u201d",
+          "cta": "\u201cClique et commande. 39\u20ac\u2014tu vas l\u2019utiliser tous les soirs.\u201d",
+          "created_at": "2026-03-27T12:35:36.957480Z"
+        },
+        {
+          "id": "d22f0ed2-cf52-40f3-b4c1-e7cd52c987bf",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cJe l\u2019ai allum\u00e9 une fois\u2026 maintenant je peux plus m\u2019en passer. La galaxie tourne \u00e0 360\u00b0, \u00e7a donne une vibe trop relax. M\u00eame avant de dormir, c\u2019est devenu mon rituel.\u201d",
+          "hook": "\u201cAttention: \u00e7a rend accro.\u201d",
+          "cta": "\u201cPrends-le maintenant. 39\u20ac\u2014si tu passes ton tour, tu perds.\u201d",
+          "created_at": "2026-03-27T12:35:36.957831Z"
+        },
+        {
+          "id": "14b42df3-c780-43e2-978d-c2ef77751f77",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cTu veux un fond qui claque sans effort? Projecteur galaxie LED. Rotation 360\u00b0, rendu spatial, ambiance \u2018luxury\u2019. Tu filmes 5 secondes et t\u2019as du contenu.\u201d",
+          "hook": "\u201cTes stories vont changer apr\u00e8s \u00e7a.\u201d",
+          "cta": "\u201cCommande maintenant. 39\u20ac\u2014et commence \u00e0 flex ce soir.\u201d",
+          "created_at": "2026-03-27T12:35:36.958166Z"
+        },
+        {
+          "id": "c6061bc8-d7f7-49a9-ba9a-d39fd7114e5d",
+          "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+          "product_name": "Galaxy Projector Light",
+          "script": "\u201cArr\u00eate de te contenter d\u2019une lumi\u00e8re triste. Pour 39\u20ac, tu mets une n\u00e9buleuse au plafond, rotation 360\u00b0, ambiance instant. C\u2019est simple, beau, et \u00e7a change tout.\u201d",
+          "hook": "\u201cDernier rappel: ta chambre peut \u00eatre une galaxie.\u201d",
+          "cta": "\u201cClique et ach\u00e8te maintenant. Pas \u2018je verrai plus tard\u2019. Maintenant.\u201d",
+          "created_at": "2026-03-27T12:35:36.958515Z"
+        }
+      ]
+    },
+    {
+      "test_name": "Generate DM Scripts",
+      "endpoint": "generate/dm-scripts",
+      "method": "POST",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 45,
+      "response_data": {
+        "message": "5 messages DM g\u00e9n\u00e9r\u00e9s",
+        "count": 5
+      }
+    },
+    {
+      "test_name": "Get DM Scripts",
+      "endpoint": "dm-scripts",
+      "method": "GET",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 1274,
+      "response_data": [
+        {
+          "id": "fd0492f5-ddd0-4b73-b4d3-0a823aad90d2",
+          "variation_number": 1,
+          "message": "Il me reste 3 places/prix promo aujourd\u2019hui, apr\u00e8s \u00e7a je ferme. Tu veux que je te r\u00e9serve maintenant ou tu passes ton tour ?",
+          "created_at": "2026-03-27T12:35:41.324869Z"
+        },
+        {
+          "id": "fb134828-1e72-40bf-b5e4-9e47838fb7cb",
+          "variation_number": 2,
+          "message": "Je peux te l\u2019activer tout de suite, mais seulement pour les 10 prochaines minutes. Tu prends maintenant ou je lib\u00e8re la place pour le suivant ?",
+          "created_at": "2026-03-27T12:35:41.326365Z"
+        },
+        {
+          "id": "0d3535a9-0e7b-4aa7-9025-8390b43e793b",
+          "variation_number": 3,
+          "message": "Derni\u00e8re chance : \u00e0 minuit le tarif augmente et je ne fais aucune exception. Tu veux le lien de paiement maintenant, oui ou non ?",
+          "created_at": "2026-03-27T12:35:41.326840Z"
+        },
+        {
+          "id": "fb5d1632-f85f-4597-b280-b8e07be4b3ce",
+          "variation_number": 4,
+          "message": "J\u2019ai deux personnes qui attendent ta r\u00e9ponse pour prendre ta place. Tu confirmes maintenant et je te bloque l\u2019acc\u00e8s, ou j\u2019avance avec eux ?",
+          "created_at": "2026-03-27T12:35:41.327278Z"
+        },
+        {
+          "id": "b218ea31-42f6-423f-aeb8-621217c1849d",
+          "variation_number": 5,
+          "message": "Je te le mets au prix actuel uniquement si tu valides dans l\u2019heure. Envoie \u201cGO\u201d et je t\u2019envoie le checkout, sinon je coupe.",
+          "created_at": "2026-03-27T12:35:41.327651Z"
+        }
+      ]
+    },
+    {
+      "test_name": "Generate Sales Page",
+      "endpoint": "generate/sales-page",
+      "method": "POST",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 7487,
+      "response_data": {
+        "id": "15bc563e-01c5-4f4b-a7d7-6b9528338524",
+        "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+        "product_name": "Galaxy Projector Light",
+        "titre": "Transforme ta chambre en galaxie en 10 secondes.",
+        "promesse": "Allume le Galaxy Projector Light et profite instantan\u00e9ment d\u2019une ambiance \u201cwow\u201d ultra relaxante, digne d\u2019un ciel \u00e9toil\u00e9, chez toi.",
+        "benefices": [
+          "Ambiance immersive 360\u00b0 : projection galaxie + rotation pour un effet vivant, hypnotisant, parfait pour chill, soir\u00e9es, gaming.",
+          "Upgrade d\u00e9co imm\u00e9diat : une seule lumi\u00e8re et ta pi\u00e8ce passe de \u201cbanale\u201d \u00e0 \u201cPinterest/TikTok ready\u201d sans travaux ni budget d\u00e9co.",
+          "D\u00e9tente & mood garanti : id\u00e9al pour d\u00e9compresser, cr\u00e9er une vibe romantique, accompagner tes routines du soir ou tes sessions musique."
+        ],
+        "offre": "Offre de lancement \u00e0 39,00\u20ac \u2014 stock limit\u00e9 (rotation 360\u00b0 en r\u00e9assort lent). Promo valable jusqu\u2019\u00e0 minuit ou \u00e9puisement.",
+        "html_content": "```html\n<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>Galaxy Projector Light - Ambiance Galaxie</title>\n  <style>\n    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#070812;color:#fff;line-height:1.4}\n    .wrap{max-width:980px;margin:0 auto;padding:24px}\n    .hero{background:radial-gradient(circle at 20% 10%, rgba(140,92,255,.35), transparent 45%),\n                 radial-gradient(circle at 80% 20%, rgba(0,209,255,.25), transparent 45%),\n                 radial-gradient(circle at 50% 80%, rgba(255,0,140,.20), transparent 50%),\n                 linear-gradient(180deg,#050612,#0a0b1f);\n          border:1px solid rgba(255,255,255,.10);border-radius:18px;padding:28px}\n    .badge{display:inline-block;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.18);\n           padding:8px 12px;border-radius:999px;font-size:12px;letter-spacing:.3px}\n    h1{margin:14px 0 10px;font-size:34px;line-height:1.1}\n    .sub{font-size:16px;color:rgba(255,255,255,.85);max-width:720px}\n    .grid{display:grid;grid-template-columns:1.2fr .8fr;gap:18px;margin-top:20px}\n    .card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.10);border-radius:16px;padding:18px}\n    .price{font-size:30px;font-weight:800}\n    .old{font-size:14px;color:rgba(255,255,255,.6);text-decoration:line-through;margin-left:10px}\n    .cta{display:block;text-align:center;background:linear-gradient(90deg,#7c4dff,#00d1ff);\n         color:#041019;font-weight:800;text-decoration:none;padding:14px 16px;border-radius:12px;margin-top:12px}\n    .cta small{display:block;color:rgba(4,16,25,.8);font-weight:600;margin-top:4px}\n    ul{margin:10px 0 0 18px;color:rgba(255,255,255,.9)}\n    li{margin:8px 0}\n    .kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px}\n    .kpi{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.10);border-radius:14px;padding:12px}\n    .kpi b{display:block;font-size:14px}\n    .kpi span{color:rgba(255,255,255,.75);font-size:12px}\n    .section{margin-top:18px}\n    .muted{color:rgba(255,255,255,.75)}\n    .urgency{background:rgba(255,72,120,.12);border:1px solid rgba(255,72,120,.35);padding:12px 14px;border-radius:14px}\n    .faq details{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.10);border-radius:14px;padding:12px 14px;margin-top:10px}\n    .footer{margin-top:18px;font-size:12px;color:rgba(255,255,255,.6)}\n    @media (max-width:860px){.grid{grid-template-columns:1fr} h1{font-size:28px}}\n  </style>\n</head>\n<body>\n  <div class=\"wrap\">\n    <div class=\"hero\">\n      <span class=\"badge\">\u2728 Best-seller d\u00e9co ambiance \u2022 Rotation 360\u00b0</span>\n      <h1>Transforme ta chambre en galaxie en 10 secondes.</h1>\n      <p class=\"sub\">\n        Le <b>Galaxy Projector Light</b> projette un ciel \u00e9toil\u00e9 LED ultra immersif et tourne \u00e0 <b>360\u00b0</b> pour cr\u00e9er une vibe\n        \u201ccin\u00e9ma / chill / soir\u00e9e\u201d instantan\u00e9e. Parfait pour chambre, salon, setup gaming ou date night.\n      </p>\n\n      <div class=\"grid\">\n        <div class=\"card\">\n          <h2 style=\"margin:0 0 10px;\">Pourquoi tu vas l\u2019adorer</h2>\n          <ul>\n            <li><b>Effet galaxie vivant</b> : la rotation 360\u00b0 donne une vraie sensation de mouvement.</li>\n            <li><b>Ambiance imm\u00e9diate</b> : une lumi\u00e8re = une pi\u00e8ce transform\u00e9e (sans refaire ta d\u00e9co).</li>\n            <li><b>Mood & d\u00e9tente</b> : id\u00e9al pour d\u00e9compresser, dormir, m\u00e9diter, \u00e9couter de la musique.</li>\n          </ul>\n\n          <div class=\"kpis\">\n            <div class=\"kpi\"><b>360\u00b0</b><span>Rotation immersive</span></div>\n            <div class=\"kpi\"><b>LED</b><span>Lumi\u00e8re douce & styl\u00e9e</span></div>\n            <div class=\"kpi\"><b>Setup-ready</b><span>Chambre / salon / gaming</span></div>\n          </div>\n\n          <div class=\"section urgency\">\n            <b>Offre de lancement : 39,00\u20ac</b><br/>\n            <span class=\"muted\">Stock limit\u00e9 (r\u00e9assort lent). Promo valable jusqu\u2019\u00e0 <b>minuit</b> ou \u00e9puisement.</span>\n          </div>\n        </div>\n\n        <div class=\"card\">\n          <h2 style=\"margin:0 0 6px;\">Prends-le maintenant</h2>\n          <p class=\"muted\" style=\"margin:0 0 10px;\">Ambiance \u201cwow\u201d garantie d\u00e8s la premi\u00e8re utilisation.</p>\n\n          <div style=\"display:flex;align-items:flex-end;gap:10px;\">\n            <div class=\"price\">39,00\u20ac</div>\n            <div class=\"old\">59,00\u20ac</div>\n          </div>\n\n          <a class=\"cta\" href=\"#checkout\">\n            AJOUTER AU PANIER\n            <small>\u2192 Offre limit\u00e9e \u2022 Part vite</small>\n          </a>\n\n          <div class=\"section\">\n            <p style=\"margin:0;\"><b>Id\u00e9al pour :</b></p>\n            <p class=\"muted\" style=\"margin:6px 0 0;\">\n              soir\u00e9es entre potes \u2022 Netflix & chill \u2022 routine du soir \u2022 setup gaming \u2022 d\u00e9co TikTok/Instagram \u2022 ambiance romantique\n            </p>\n          </div>\n\n          <div class=\"section\">\n            <p style=\"margin:0;\"><b>Ce que tu re\u00e7ois :</b></p>\n            <p class=\"muted\" style=\"margin:6px 0 0;\">1\u00d7 Galaxy Projector Light (projecteur galaxie LED, rotation 360\u00b0)</p>\n          </div>\n        </div>\n      </div>\n\n      <div class=\"section card faq\">\n        <h2 style=\"margin:0 0 6px;\">FAQ rapide</h2>\n\n        <details>\n          <summary><b>\u00c7a marche dans une petite pi\u00e8ce ?</b></summary>\n          <p class=\"muted\">Oui. C\u2019est justement parfait pour une chambre : l\u2019effet est dense, enveloppant et tr\u00e8s \u201ccosy\u201d.</p>\n        </details>\n\n        <details>\n          <summary><b>L\u2019effet fait \u201ccheap\u201d ?</b></summary>\n          <p class=\"muted\">Non : l\u2019objectif est une ambiance premium, type ciel \u00e9toil\u00e9. La rotation 360\u00b0 ajoute un rendu vivant.</p>\n        </details>\n\n        <details>\n          <summary><b>Pour quel type de vibe ?</b></summary>\n          <p class=\"muted\">Chill, romantique, focus, gaming, soir\u00e9e. Tu l\u2019allumes \u2192 la pi\u00e8ce change d\u2019\u00e9nergie.</p>\n        </details>\n\n        <a id=\"checkout\" class=\"cta\" href=\"#\">\n          JE VEUX MON EFFET GALAXIE \u00c0 39,00\u20ac\n          <small>Offre jusqu\u2019\u00e0 minuit ou fin du stock</small>\n        </a>\n\n        <p class=\"footer\">\n          *Prix public indicatif. Disponibilit\u00e9 variable selon stock. Texte marketing \u2014 visuels non inclus.\n        </p>\n      </div>\n    </div>\n  </div>\n</body>\n</html>\n```\n",
+        "created_at": "2026-03-27T12:36:13.156190Z"
+      }
+    },
+    {
+      "test_name": "Get Sales Page",
+      "endpoint": "sales-pages/4adb5f46-b776-48d9-8662-c6980362f0df",
+      "method": "GET",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 7487,
+      "response_data": {
+        "id": "15bc563e-01c5-4f4b-a7d7-6b9528338524",
+        "product_id": "4adb5f46-b776-48d9-8662-c6980362f0df",
+        "product_name": "Galaxy Projector Light",
+        "titre": "Transforme ta chambre en galaxie en 10 secondes.",
+        "promesse": "Allume le Galaxy Projector Light et profite instantan\u00e9ment d\u2019une ambiance \u201cwow\u201d ultra relaxante, digne d\u2019un ciel \u00e9toil\u00e9, chez toi.",
+        "benefices": [
+          "Ambiance immersive 360\u00b0 : projection galaxie + rotation pour un effet vivant, hypnotisant, parfait pour chill, soir\u00e9es, gaming.",
+          "Upgrade d\u00e9co imm\u00e9diat : une seule lumi\u00e8re et ta pi\u00e8ce passe de \u201cbanale\u201d \u00e0 \u201cPinterest/TikTok ready\u201d sans travaux ni budget d\u00e9co.",
+          "D\u00e9tente & mood garanti : id\u00e9al pour d\u00e9compresser, cr\u00e9er une vibe romantique, accompagner tes routines du soir ou tes sessions musique."
+        ],
+        "offre": "Offre de lancement \u00e0 39,00\u20ac \u2014 stock limit\u00e9 (rotation 360\u00b0 en r\u00e9assort lent). Promo valable jusqu\u2019\u00e0 minuit ou \u00e9puisement.",
+        "html_content": "```html\n<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>Galaxy Projector Light - Ambiance Galaxie</title>\n  <style>\n    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#070812;color:#fff;line-height:1.4}\n    .wrap{max-width:980px;margin:0 auto;padding:24px}\n    .hero{background:radial-gradient(circle at 20% 10%, rgba(140,92,255,.35), transparent 45%),\n                 radial-gradient(circle at 80% 20%, rgba(0,209,255,.25), transparent 45%),\n                 radial-gradient(circle at 50% 80%, rgba(255,0,140,.20), transparent 50%),\n                 linear-gradient(180deg,#050612,#0a0b1f);\n          border:1px solid rgba(255,255,255,.10);border-radius:18px;padding:28px}\n    .badge{display:inline-block;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.18);\n           padding:8px 12px;border-radius:999px;font-size:12px;letter-spacing:.3px}\n    h1{margin:14px 0 10px;font-size:34px;line-height:1.1}\n    .sub{font-size:16px;color:rgba(255,255,255,.85);max-width:720px}\n    .grid{display:grid;grid-template-columns:1.2fr .8fr;gap:18px;margin-top:20px}\n    .card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.10);border-radius:16px;padding:18px}\n    .price{font-size:30px;font-weight:800}\n    .old{font-size:14px;color:rgba(255,255,255,.6);text-decoration:line-through;margin-left:10px}\n    .cta{display:block;text-align:center;background:linear-gradient(90deg,#7c4dff,#00d1ff);\n         color:#041019;font-weight:800;text-decoration:none;padding:14px 16px;border-radius:12px;margin-top:12px}\n    .cta small{display:block;color:rgba(4,16,25,.8);font-weight:600;margin-top:4px}\n    ul{margin:10px 0 0 18px;color:rgba(255,255,255,.9)}\n    li{margin:8px 0}\n    .kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px}\n    .kpi{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.10);border-radius:14px;padding:12px}\n    .kpi b{display:block;font-size:14px}\n    .kpi span{color:rgba(255,255,255,.75);font-size:12px}\n    .section{margin-top:18px}\n    .muted{color:rgba(255,255,255,.75)}\n    .urgency{background:rgba(255,72,120,.12);border:1px solid rgba(255,72,120,.35);padding:12px 14px;border-radius:14px}\n    .faq details{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.10);border-radius:14px;padding:12px 14px;margin-top:10px}\n    .footer{margin-top:18px;font-size:12px;color:rgba(255,255,255,.6)}\n    @media (max-width:860px){.grid{grid-template-columns:1fr} h1{font-size:28px}}\n  </style>\n</head>\n<body>\n  <div class=\"wrap\">\n    <div class=\"hero\">\n      <span class=\"badge\">\u2728 Best-seller d\u00e9co ambiance \u2022 Rotation 360\u00b0</span>\n      <h1>Transforme ta chambre en galaxie en 10 secondes.</h1>\n      <p class=\"sub\">\n        Le <b>Galaxy Projector Light</b> projette un ciel \u00e9toil\u00e9 LED ultra immersif et tourne \u00e0 <b>360\u00b0</b> pour cr\u00e9er une vibe\n        \u201ccin\u00e9ma / chill / soir\u00e9e\u201d instantan\u00e9e. Parfait pour chambre, salon, setup gaming ou date night.\n      </p>\n\n      <div class=\"grid\">\n        <div class=\"card\">\n          <h2 style=\"margin:0 0 10px;\">Pourquoi tu vas l\u2019adorer</h2>\n          <ul>\n            <li><b>Effet galaxie vivant</b> : la rotation 360\u00b0 donne une vraie sensation de mouvement.</li>\n            <li><b>Ambiance imm\u00e9diate</b> : une lumi\u00e8re = une pi\u00e8ce transform\u00e9e (sans refaire ta d\u00e9co).</li>\n            <li><b>Mood & d\u00e9tente</b> : id\u00e9al pour d\u00e9compresser, dormir, m\u00e9diter, \u00e9couter de la musique.</li>\n          </ul>\n\n          <div class=\"kpis\">\n            <div class=\"kpi\"><b>360\u00b0</b><span>Rotation immersive</span></div>\n            <div class=\"kpi\"><b>LED</b><span>Lumi\u00e8re douce & styl\u00e9e</span></div>\n            <div class=\"kpi\"><b>Setup-ready</b><span>Chambre / salon / gaming</span></div>\n          </div>\n\n          <div class=\"section urgency\">\n            <b>Offre de lancement : 39,00\u20ac</b><br/>\n            <span class=\"muted\">Stock limit\u00e9 (r\u00e9assort lent). Promo valable jusqu\u2019\u00e0 <b>minuit</b> ou \u00e9puisement.</span>\n          </div>\n        </div>\n\n        <div class=\"card\">\n          <h2 style=\"margin:0 0 6px;\">Prends-le maintenant</h2>\n          <p class=\"muted\" style=\"margin:0 0 10px;\">Ambiance \u201cwow\u201d garantie d\u00e8s la premi\u00e8re utilisation.</p>\n\n          <div style=\"display:flex;align-items:flex-end;gap:10px;\">\n            <div class=\"price\">39,00\u20ac</div>\n            <div class=\"old\">59,00\u20ac</div>\n          </div>\n\n          <a class=\"cta\" href=\"#checkout\">\n            AJOUTER AU PANIER\n            <small>\u2192 Offre limit\u00e9e \u2022 Part vite</small>\n          </a>\n\n          <div class=\"section\">\n            <p style=\"margin:0;\"><b>Id\u00e9al pour :</b></p>\n            <p class=\"muted\" style=\"margin:6px 0 0;\">\n              soir\u00e9es entre potes \u2022 Netflix & chill \u2022 routine du soir \u2022 setup gaming \u2022 d\u00e9co TikTok/Instagram \u2022 ambiance romantique\n            </p>\n          </div>\n\n          <div class=\"section\">\n            <p style=\"margin:0;\"><b>Ce que tu re\u00e7ois :</b></p>\n            <p class=\"muted\" style=\"margin:6px 0 0;\">1\u00d7 Galaxy Projector Light (projecteur galaxie LED, rotation 360\u00b0)</p>\n          </div>\n        </div>\n      </div>\n\n      <div class=\"section card faq\">\n        <h2 style=\"margin:0 0 6px;\">FAQ rapide</h2>\n\n        <details>\n          <summary><b>\u00c7a marche dans une petite pi\u00e8ce ?</b></summary>\n          <p class=\"muted\">Oui. C\u2019est justement parfait pour une chambre : l\u2019effet est dense, enveloppant et tr\u00e8s \u201ccosy\u201d.</p>\n        </details>\n\n        <details>\n          <summary><b>L\u2019effet fait \u201ccheap\u201d ?</b></summary>\n          <p class=\"muted\">Non : l\u2019objectif est une ambiance premium, type ciel \u00e9toil\u00e9. La rotation 360\u00b0 ajoute un rendu vivant.</p>\n        </details>\n\n        <details>\n          <summary><b>Pour quel type de vibe ?</b></summary>\n          <p class=\"muted\">Chill, romantique, focus, gaming, soir\u00e9e. Tu l\u2019allumes \u2192 la pi\u00e8ce change d\u2019\u00e9nergie.</p>\n        </details>\n\n        <a id=\"checkout\" class=\"cta\" href=\"#\">\n          JE VEUX MON EFFET GALAXIE \u00c0 39,00\u20ac\n          <small>Offre jusqu\u2019\u00e0 minuit ou fin du stock</small>\n        </a>\n\n        <p class=\"footer\">\n          *Prix public indicatif. Disponibilit\u00e9 variable selon stock. Texte marketing \u2014 visuels non inclus.\n        </p>\n      </div>\n    </div>\n  </div>\n</body>\n</html>\n```\n",
+        "created_at": "2026-03-27T12:36:13.156190Z"
+      }
     },
     {
       "test_name": "Get Strategy",
@@ -250,8 +612,8 @@
       "success": true,
       "response_size": 527,
       "response_data": {
-        "url": "https://checkout.stripe.com/c/pay/cs_test_a1chcBpOzS4NZkZgmzL2tfaRH25dAF4C7hlhnD0NfCr5A5H6HjRPxxBGZW#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdkdWxOYHwnPyd1blpxYHZxWjA0V2xNTTNGQU9iY0w8d1VifVUyPXZSaEc8YUpOUTFgdzdEZkNyPTNOZFJSaWNpQ19HfWJwTXJWUDxsY1BJYTNqUW01NW1XYV83VmNjMGgyPE1zPEh0N3QxNTV%2FR0BiYnd2UicpJ2N3amhWYHdzYHcnP3F3cGApJ2dkZm5id2pwa2FGamlqdyc%2FJyZjY2NjY2MnKSdpZHxqcHFRfHVgJz8ndmxrYmlgWmxxYGgnKSdga2RnaWBVaWRmYG1qaWFgd3YnP3F3cGB4JSUl",
-        "session_id": "cs_test_a1chcBpOzS4NZkZgmzL2tfaRH25dAF4C7hlhnD0NfCr5A5H6HjRPxxBGZW"
+        "url": "https://checkout.stripe.com/c/pay/cs_test_a1NnnK3YlwiCJlcwJGkCr1Bh6smoOSWMxzTtet1QQKo5TmOYZLZUq3UJRK#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdkdWxOYHwnPyd1blpxYHZxWjA0V2xNTTNGQU9iY0w8d1VifVUyPXZSaEc8YUpOUTFgdzdEZkNyPTNOZFJSaWNpQ19HfWJwTXJWUDxsY1BJYTNqUW01NW1XYV83VmNjMGgyPE1zPEh0N3QxNTV%2FR0BiYnd2UicpJ2N3amhWYHdzYHcnP3F3cGApJ2dkZm5id2pwa2FGamlqdyc%2FJyZjY2NjY2MnKSdpZHxqcHFRfHVgJz8ndmxrYmlgWmxxYGgnKSdga2RnaWBVaWRmYG1qaWFgd3YnP3F3cGB4JSUl",
+        "session_id": "cs_test_a1NnnK3YlwiCJlcwJGkCr1Bh6smoOSWMxzTtet1QQKo5TmOYZLZUq3UJRK"
       }
     }
   ]
