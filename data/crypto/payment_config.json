@@ -1,0 +1,53 @@
+{
+  "enabled": true,
+  "provider": "coinbase_commerce",
+  "accepted_currencies": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "network": "Bitcoin",
+      "min_amount": 0.0001,
+      "fee_percent": 1.0,
+      "logo": "₿"
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "network": "ERC-20",
+      "min_amount": 0.001,
+      "fee_percent": 1.5,
+      "logo": "Ξ"
+    },
+    {
+      "symbol": "USDT",
+      "name": "Tether",
+      "network": "ERC-20/TRC-20",
+      "min_amount": 10,
+      "fee_percent": 1.0,
+      "logo": "₮"
+    },
+    {
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "network": "ERC-20",
+      "min_amount": 10,
+      "fee_percent": 1.0,
+      "logo": "USDC"
+    },
+    {
+      "symbol": "BNB",
+      "name": "Binance Coin",
+      "network": "BSC",
+      "min_amount": 0.01,
+      "fee_percent": 1.0,
+      "logo": "BNB"
+    }
+  ],
+  "auto_convert_to_fiat": true,
+  "payout_threshold_usd": 50,
+  "commission_payment": {
+    "crypto_only": true,
+    "preferred_currency": "USDT",
+    "payout_schedule": "weekly"
+  }
+}

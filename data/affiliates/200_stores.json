@@ -1,0 +1,2602 @@
+[
+  {
+    "affiliate_code": "AFF-001-09ZZ",
+    "affiliate_name": "Alexandre Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-001-09ZZ",
+    "custom_message": "Boutique recommandée par Alexandre de Lille",
+    "badge": "Affilié vérifié ##001",
+    "discount_code": "AFF-001-09ZZ-FIRST",
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-002-8627",
+    "affiliate_name": "Antoine Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-002-8627",
+    "custom_message": "Boutique recommandée par Antoine de Metz",
+    "badge": "Affilié vérifié ##002",
+    "discount_code": "AFF-002-8627-FIRST",
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-003-L7FG",
+    "affiliate_name": "Sarah Bernard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-003-L7FG",
+    "custom_message": "Boutique recommandée par Sarah de Lille",
+    "badge": "Affilié vérifié ##003",
+    "discount_code": "AFF-003-L7FG-FIRST",
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-004-BEXY",
+    "affiliate_name": "Tom André",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-004-BEXY",
+    "custom_message": "Boutique recommandée par Tom de Dijon",
+    "badge": "Affilié vérifié ##004",
+    "discount_code": "AFF-004-BEXY-FIRST",
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-005-FF02",
+    "affiliate_name": "Pierre Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-005-FF02",
+    "custom_message": "Boutique recommandée par Pierre de Besançon",
+    "badge": "Affilié vérifié ##005",
+    "discount_code": "AFF-005-FF02-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-006-2CO8",
+    "affiliate_name": "Léa Dupont",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-006-2CO8",
+    "custom_message": "Boutique recommandée par Léa de Lyon",
+    "badge": "Affilié vérifié ##006",
+    "discount_code": "AFF-006-2CO8-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Galaxy Projector Light",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-007-WPLE",
+    "affiliate_name": "Anna Vincent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-007-WPLE",
+    "custom_message": "Boutique recommandée par Anna de Clermont-Ferrand",
+    "badge": "Affilié vérifié ##007",
+    "discount_code": "AFF-007-WPLE-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-008-T7JE",
+    "affiliate_name": "Alexandre Laurent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-008-T7JE",
+    "custom_message": "Boutique recommandée par Alexandre de Metz",
+    "badge": "Affilié vérifié ##008",
+    "discount_code": "AFF-008-T7JE-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-009-9S7P",
+    "affiliate_name": "Victor Bernard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-009-9S7P",
+    "custom_message": "Boutique recommandée par Victor de Lyon",
+    "badge": "Affilié vérifié ##009",
+    "discount_code": "AFF-009-9S7P-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-010-XPSX",
+    "affiliate_name": "Louise Martin",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-010-XPSX",
+    "custom_message": "Boutique recommandée par Louise de Nice",
+    "badge": "Affilié vérifié ##010",
+    "discount_code": "AFF-010-XPSX-FIRST",
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Resistance Band Set",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-011-HWXU",
+    "affiliate_name": "Louis David",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-011-HWXU",
+    "custom_message": "Boutique recommandée par Louis de Perpignan",
+    "badge": "Affilié vérifié ##011",
+    "discount_code": "AFF-011-HWXU-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-012-NVQ8",
+    "affiliate_name": "Rose Fournier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-012-NVQ8",
+    "custom_message": "Boutique recommandée par Rose de Metz",
+    "badge": "Affilié vérifié ##012",
+    "discount_code": "AFF-012-NVQ8-FIRST",
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-013-SDCK",
+    "affiliate_name": "Marie Michel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-013-SDCK",
+    "custom_message": "Boutique recommandée par Marie de Le Mans",
+    "badge": "Affilié vérifié ##013",
+    "discount_code": "AFF-013-SDCK-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Resistance Band Set",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-014-9GDM",
+    "affiliate_name": "Alexandre Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-014-9GDM",
+    "custom_message": "Boutique recommandée par Alexandre de Saint-Denis",
+    "badge": "Affilié vérifié ##014",
+    "discount_code": "AFF-014-9GDM-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-015-4FEY",
+    "affiliate_name": "Clara David",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-015-4FEY",
+    "custom_message": "Boutique recommandée par Clara de Saint-Étienne",
+    "badge": "Affilié vérifié ##015",
+    "discount_code": "AFF-015-4FEY-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-016-47C5",
+    "affiliate_name": "Hugo Mercier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-016-47C5",
+    "custom_message": "Boutique recommandée par Hugo de Strasbourg",
+    "badge": "Affilié vérifié ##016",
+    "discount_code": "AFF-016-47C5-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-017-F8PO",
+    "affiliate_name": "Manon Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-017-F8PO",
+    "custom_message": "Boutique recommandée par Manon de Dijon",
+    "badge": "Affilié vérifié ##017",
+    "discount_code": "AFF-017-F8PO-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-018-I3QE",
+    "affiliate_name": "Jules Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-018-I3QE",
+    "custom_message": "Boutique recommandée par Jules de Amiens",
+    "badge": "Affilié vérifié ##018",
+    "discount_code": "AFF-018-I3QE-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Smart Fitness Watch",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-019-AVTD",
+    "affiliate_name": "Louis Morel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-019-AVTD",
+    "custom_message": "Boutique recommandée par Louis de Dijon",
+    "badge": "Affilié vérifié ##019",
+    "discount_code": "AFF-019-AVTD-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-020-JL7A",
+    "affiliate_name": "Hugo Simon",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-020-JL7A",
+    "custom_message": "Boutique recommandée par Hugo de Dijon",
+    "badge": "Affilié vérifié ##020",
+    "discount_code": "AFF-020-JL7A-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-021-MSO4",
+    "affiliate_name": "Nathan Vincent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-021-MSO4",
+    "custom_message": "Boutique recommandée par Nathan de Toulon",
+    "badge": "Affilié vérifié ##021",
+    "discount_code": "AFF-021-MSO4-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-022-KH7O",
+    "affiliate_name": "Adam Martin",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-022-KH7O",
+    "custom_message": "Boutique recommandée par Adam de Dijon",
+    "badge": "Affilié vérifié ##022",
+    "discount_code": "AFF-022-KH7O-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-023-7NTP",
+    "affiliate_name": "Sophie Simon",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-023-7NTP",
+    "custom_message": "Boutique recommandée par Sophie de Paris",
+    "badge": "Affilié vérifié ##023",
+    "discount_code": "AFF-023-7NTP-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-024-1X7H",
+    "affiliate_name": "Benjamin Lambert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-024-1X7H",
+    "custom_message": "Boutique recommandée par Benjamin de Dijon",
+    "badge": "Affilié vérifié ##024",
+    "discount_code": "AFF-024-1X7H-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-025-SB9D",
+    "affiliate_name": "Lucas Simon",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-025-SB9D",
+    "custom_message": "Boutique recommandée par Lucas de Rennes",
+    "badge": "Affilié vérifié ##025",
+    "discount_code": "AFF-025-SB9D-FIRST",
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-026-02GU",
+    "affiliate_name": "Thomas Lambert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-026-02GU",
+    "custom_message": "Boutique recommandée par Thomas de Saint-Étienne",
+    "badge": "Affilié vérifié ##026",
+    "discount_code": "AFF-026-02GU-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-027-33BN",
+    "affiliate_name": "Nicolas Lefebvre",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-027-33BN",
+    "custom_message": "Boutique recommandée par Nicolas de Metz",
+    "badge": "Affilié vérifié ##027",
+    "discount_code": "AFF-027-33BN-FIRST",
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-028-637I",
+    "affiliate_name": "Tom Roux",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-028-637I",
+    "custom_message": "Boutique recommandée par Tom de Villeurbanne",
+    "badge": "Affilié vérifié ##028",
+    "discount_code": "AFF-028-637I-FIRST",
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-029-Q5H9",
+    "affiliate_name": "Laura Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-029-Q5H9",
+    "custom_message": "Boutique recommandée par Laura de Paris",
+    "badge": "Affilié vérifié ##029",
+    "discount_code": "AFF-029-Q5H9-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-030-YRYG",
+    "affiliate_name": "Clara Faure",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-030-YRYG",
+    "custom_message": "Boutique recommandée par Clara de Grenoble",
+    "badge": "Affilié vérifié ##030",
+    "discount_code": "AFF-030-YRYG-FIRST",
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-031-W2SX",
+    "affiliate_name": "Léa Girard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-031-W2SX",
+    "custom_message": "Boutique recommandée par Léa de Paris",
+    "badge": "Affilié vérifié ##031",
+    "discount_code": "AFF-031-W2SX-FIRST",
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-032-YSKE",
+    "affiliate_name": "Lucie Fournier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-032-YSKE",
+    "custom_message": "Boutique recommandée par Lucie de Reims",
+    "badge": "Affilié vérifié ##032",
+    "discount_code": "AFF-032-YSKE-FIRST",
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-033-1GR6",
+    "affiliate_name": "Lisa Bertrand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-033-1GR6",
+    "custom_message": "Boutique recommandée par Lisa de Montpellier",
+    "badge": "Affilié vérifié ##033",
+    "discount_code": "AFF-033-1GR6-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-034-1NJ0",
+    "affiliate_name": "Margot David",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-034-1NJ0",
+    "custom_message": "Boutique recommandée par Margot de Amiens",
+    "badge": "Affilié vérifié ##034",
+    "discount_code": "AFF-034-1NJ0-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-035-2IZ1",
+    "affiliate_name": "Rose Michel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-035-2IZ1",
+    "custom_message": "Boutique recommandée par Rose de Bordeaux",
+    "badge": "Affilié vérifié ##035",
+    "discount_code": "AFF-035-2IZ1-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-036-PH3C",
+    "affiliate_name": "Hugo Michel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-036-PH3C",
+    "custom_message": "Boutique recommandée par Hugo de Tours",
+    "badge": "Affilié vérifié ##036",
+    "discount_code": "AFF-036-PH3C-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Smart Fitness Watch",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-037-8HYY",
+    "affiliate_name": "Julien Bernard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-037-8HYY",
+    "custom_message": "Boutique recommandée par Julien de Marseille",
+    "badge": "Affilié vérifié ##037",
+    "discount_code": "AFF-037-8HYY-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-038-8OEU",
+    "affiliate_name": "Lucie Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-038-8OEU",
+    "custom_message": "Boutique recommandée par Lucie de Lille",
+    "badge": "Affilié vérifié ##038",
+    "discount_code": "AFF-038-8OEU-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-039-25L0",
+    "affiliate_name": "Zoé Petit",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-039-25L0",
+    "custom_message": "Boutique recommandée par Zoé de Paris",
+    "badge": "Affilié vérifié ##039",
+    "discount_code": "AFF-039-25L0-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-040-QY2T",
+    "affiliate_name": "Emma Morel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-040-QY2T",
+    "custom_message": "Boutique recommandée par Emma de Le Mans",
+    "badge": "Affilié vérifié ##040",
+    "discount_code": "AFF-040-QY2T-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-041-FAHX",
+    "affiliate_name": "Lucas Martin",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-041-FAHX",
+    "custom_message": "Boutique recommandée par Lucas de Orléans",
+    "badge": "Affilié vérifié ##041",
+    "discount_code": "AFF-041-FAHX-FIRST",
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-042-TOPN",
+    "affiliate_name": "Raphaël Michel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-042-TOPN",
+    "custom_message": "Boutique recommandée par Raphaël de Lille",
+    "badge": "Affilié vérifié ##042",
+    "discount_code": "AFF-042-TOPN-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-043-2AJZ",
+    "affiliate_name": "Zoé Bonnet",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-043-2AJZ",
+    "custom_message": "Boutique recommandée par Zoé de Perpignan",
+    "badge": "Affilié vérifié ##043",
+    "discount_code": "AFF-043-2AJZ-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-044-X91Q",
+    "affiliate_name": "Zoé Fournier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-044-X91Q",
+    "custom_message": "Boutique recommandée par Zoé de Tours",
+    "badge": "Affilié vérifié ##044",
+    "discount_code": "AFF-044-X91Q-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-045-8AQY",
+    "affiliate_name": "Julien Dupont",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-045-8AQY",
+    "custom_message": "Boutique recommandée par Julien de Grenoble",
+    "badge": "Affilié vérifié ##045",
+    "discount_code": "AFF-045-8AQY-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-046-F936",
+    "affiliate_name": "Victor Simon",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-046-F936",
+    "custom_message": "Boutique recommandée par Victor de Nice",
+    "badge": "Affilié vérifié ##046",
+    "discount_code": "AFF-046-F936-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-047-VW1M",
+    "affiliate_name": "Anna Richard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-047-VW1M",
+    "custom_message": "Boutique recommandée par Anna de Nice",
+    "badge": "Affilié vérifié ##047",
+    "discount_code": "AFF-047-VW1M-FIRST",
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-048-FCHL",
+    "affiliate_name": "Louise Fournier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-048-FCHL",
+    "custom_message": "Boutique recommandée par Louise de Strasbourg",
+    "badge": "Affilié vérifié ##048",
+    "discount_code": "AFF-048-FCHL-FIRST",
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-049-DZBI",
+    "affiliate_name": "Manon Girard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-049-DZBI",
+    "custom_message": "Boutique recommandée par Manon de Limoges",
+    "badge": "Affilié vérifié ##049",
+    "discount_code": "AFF-049-DZBI-FIRST",
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-050-PF8K",
+    "affiliate_name": "Sarah Dupont",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-050-PF8K",
+    "custom_message": "Boutique recommandée par Sarah de Grenoble",
+    "badge": "Affilié vérifié ##050",
+    "discount_code": "AFF-050-PF8K-FIRST",
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-051-5YOP",
+    "affiliate_name": "Camille Legrand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-051-5YOP",
+    "custom_message": "Boutique recommandée par Camille de Besançon",
+    "badge": "Affilié vérifié ##051",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-052-6Y51",
+    "affiliate_name": "Noah Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-052-6Y51",
+    "custom_message": "Boutique recommandée par Noah de Angers",
+    "badge": "Affilié vérifié ##052",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-053-73LG",
+    "affiliate_name": "Louis Vincent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-053-73LG",
+    "custom_message": "Boutique recommandée par Louis de Brest",
+    "badge": "Affilié vérifié ##053",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-054-1JDI",
+    "affiliate_name": "Rose Mercier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-054-1JDI",
+    "custom_message": "Boutique recommandée par Rose de Saint-Étienne",
+    "badge": "Affilié vérifié ##054",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-055-9326",
+    "affiliate_name": "Léa Faure",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-055-9326",
+    "custom_message": "Boutique recommandée par Léa de Toulon",
+    "badge": "Affilié vérifié ##055",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-056-R02K",
+    "affiliate_name": "Sarah Lambert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-056-R02K",
+    "custom_message": "Boutique recommandée par Sarah de Paris",
+    "badge": "Affilié vérifié ##056",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-057-W2GB",
+    "affiliate_name": "Victor Petit",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-057-W2GB",
+    "custom_message": "Boutique recommandée par Victor de Saint-Étienne",
+    "badge": "Affilié vérifié ##057",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-058-R1PW",
+    "affiliate_name": "Inès Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-058-R1PW",
+    "custom_message": "Boutique recommandée par Inès de Lyon",
+    "badge": "Affilié vérifié ##058",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-059-0DN1",
+    "affiliate_name": "Tom Bernard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-059-0DN1",
+    "custom_message": "Boutique recommandée par Tom de Amiens",
+    "badge": "Affilié vérifié ##059",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-060-MHEH",
+    "affiliate_name": "Raphaël Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-060-MHEH",
+    "custom_message": "Boutique recommandée par Raphaël de Orléans",
+    "badge": "Affilié vérifié ##060",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-061-EBYZ",
+    "affiliate_name": "Emma Mercier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-061-EBYZ",
+    "custom_message": "Boutique recommandée par Emma de Toulouse",
+    "badge": "Affilié vérifié ##061",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-062-9YXL",
+    "affiliate_name": "Jules Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-062-9YXL",
+    "custom_message": "Boutique recommandée par Jules de Nice",
+    "badge": "Affilié vérifié ##062",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-063-EHT1",
+    "affiliate_name": "Chloé Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-063-EHT1",
+    "custom_message": "Boutique recommandée par Chloé de Besançon",
+    "badge": "Affilié vérifié ##063",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-064-QUBM",
+    "affiliate_name": "Zoé Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-064-QUBM",
+    "custom_message": "Boutique recommandée par Zoé de Metz",
+    "badge": "Affilié vérifié ##064",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-065-JFVW",
+    "affiliate_name": "Charlotte François",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-065-JFVW",
+    "custom_message": "Boutique recommandée par Charlotte de Villeurbanne",
+    "badge": "Affilié vérifié ##065",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-066-1HCK",
+    "affiliate_name": "Rose Lefebvre",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-066-1HCK",
+    "custom_message": "Boutique recommandée par Rose de Dijon",
+    "badge": "Affilié vérifié ##066",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-067-GF82",
+    "affiliate_name": "Laura Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-067-GF82",
+    "custom_message": "Boutique recommandée par Laura de Boulogne-Billancourt",
+    "badge": "Affilié vérifié ##067",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-068-KVGS",
+    "affiliate_name": "Noah Girard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-068-KVGS",
+    "custom_message": "Boutique recommandée par Noah de Perpignan",
+    "badge": "Affilié vérifié ##068",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-069-79OS",
+    "affiliate_name": "Adam Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-069-79OS",
+    "custom_message": "Boutique recommandée par Adam de Perpignan",
+    "badge": "Affilié vérifié ##069",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-070-5SAJ",
+    "affiliate_name": "Adam Richard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-070-5SAJ",
+    "custom_message": "Boutique recommandée par Adam de Marseille",
+    "badge": "Affilié vérifié ##070",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-071-PDZN",
+    "affiliate_name": "Benjamin Bonnet",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-071-PDZN",
+    "custom_message": "Boutique recommandée par Benjamin de Nîmes",
+    "badge": "Affilié vérifié ##071",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Resistance Band Set",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-072-CGMU",
+    "affiliate_name": "Sophie Laurent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-072-CGMU",
+    "custom_message": "Boutique recommandée par Sophie de Strasbourg",
+    "badge": "Affilié vérifié ##072",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-073-F8SA",
+    "affiliate_name": "Lucas Dupont",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-073-F8SA",
+    "custom_message": "Boutique recommandée par Lucas de Rennes",
+    "badge": "Affilié vérifié ##073",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-074-76E7",
+    "affiliate_name": "Louise Vincent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-074-76E7",
+    "custom_message": "Boutique recommandée par Louise de Angers",
+    "badge": "Affilié vérifié ##074",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-075-TQW7",
+    "affiliate_name": "Laura Garnier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-075-TQW7",
+    "custom_message": "Boutique recommandée par Laura de Amiens",
+    "badge": "Affilié vérifié ##075",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Resistance Band Set",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-076-G3Z6",
+    "affiliate_name": "Jade Laurent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-076-G3Z6",
+    "custom_message": "Boutique recommandée par Jade de Lille",
+    "badge": "Affilié vérifié ##076",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Galaxy Projector Light",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-077-LPQ5",
+    "affiliate_name": "Manon Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-077-LPQ5",
+    "custom_message": "Boutique recommandée par Manon de Nîmes",
+    "badge": "Affilié vérifié ##077",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-078-DAHH",
+    "affiliate_name": "Camille Bonnet",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-078-DAHH",
+    "custom_message": "Boutique recommandée par Camille de Perpignan",
+    "badge": "Affilié vérifié ##078",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-079-1PT1",
+    "affiliate_name": "Inès Bertrand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-079-1PT1",
+    "custom_message": "Boutique recommandée par Inès de Amiens",
+    "badge": "Affilié vérifié ##079",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-080-KBEP",
+    "affiliate_name": "Nicolas Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-080-KBEP",
+    "custom_message": "Boutique recommandée par Nicolas de Le Havre",
+    "badge": "Affilié vérifié ##080",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-081-YAXX",
+    "affiliate_name": "Alice Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-081-YAXX",
+    "custom_message": "Boutique recommandée par Alice de Toulon",
+    "badge": "Affilié vérifié ##081",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-082-X6WP",
+    "affiliate_name": "Julie Faure",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-082-X6WP",
+    "custom_message": "Boutique recommandée par Julie de Amiens",
+    "badge": "Affilié vérifié ##082",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-083-3EMT",
+    "affiliate_name": "Raphaël Bernard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-083-3EMT",
+    "custom_message": "Boutique recommandée par Raphaël de Paris",
+    "badge": "Affilié vérifié ##083",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-084-VBDY",
+    "affiliate_name": "Rose Bertrand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-084-VBDY",
+    "custom_message": "Boutique recommandée par Rose de Brest",
+    "badge": "Affilié vérifié ##084",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-085-EK17",
+    "affiliate_name": "Lisa Leroy",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-085-EK17",
+    "custom_message": "Boutique recommandée par Lisa de Toulouse",
+    "badge": "Affilié vérifié ##085",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Resistance Band Set",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-086-UEG9",
+    "affiliate_name": "Hugo Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-086-UEG9",
+    "custom_message": "Boutique recommandée par Hugo de Besançon",
+    "badge": "Affilié vérifié ##086",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-087-HKAH",
+    "affiliate_name": "Inès Roux",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-087-HKAH",
+    "custom_message": "Boutique recommandée par Inès de Saint-Denis",
+    "badge": "Affilié vérifié ##087",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-088-LRTL",
+    "affiliate_name": "Alexandre Mercier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-088-LRTL",
+    "custom_message": "Boutique recommandée par Alexandre de Toulouse",
+    "badge": "Affilié vérifié ##088",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-089-AUHM",
+    "affiliate_name": "Lisa Leroy",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-089-AUHM",
+    "custom_message": "Boutique recommandée par Lisa de Paris",
+    "badge": "Affilié vérifié ##089",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-090-7KMA",
+    "affiliate_name": "Arthur Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-090-7KMA",
+    "custom_message": "Boutique recommandée par Arthur de Saint-Denis",
+    "badge": "Affilié vérifié ##090",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-091-7R6A",
+    "affiliate_name": "Anna André",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-091-7R6A",
+    "custom_message": "Boutique recommandée par Anna de Besançon",
+    "badge": "Affilié vérifié ##091",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-092-K6H1",
+    "affiliate_name": "Lisa Lambert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-092-K6H1",
+    "custom_message": "Boutique recommandée par Lisa de Saint-Étienne",
+    "badge": "Affilié vérifié ##092",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Resistance Band Set",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-093-L8CO",
+    "affiliate_name": "Inès Bernard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-093-L8CO",
+    "custom_message": "Boutique recommandée par Inès de Boulogne-Billancourt",
+    "badge": "Affilié vérifié ##093",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-094-H9NL",
+    "affiliate_name": "Alex Martinez",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-094-H9NL",
+    "custom_message": "Boutique recommandée par Alex de Montpellier",
+    "badge": "Affilié vérifié ##094",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-095-90NN",
+    "affiliate_name": "Lucie Robert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-095-90NN",
+    "custom_message": "Boutique recommandée par Lucie de Boulogne-Billancourt",
+    "badge": "Affilié vérifié ##095",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Resistance Band Set",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-096-C89Y",
+    "affiliate_name": "Romain Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-096-C89Y",
+    "custom_message": "Boutique recommandée par Romain de Lille",
+    "badge": "Affilié vérifié ##096",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-097-1BKK",
+    "affiliate_name": "Maxime Dupont",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-097-1BKK",
+    "custom_message": "Boutique recommandée par Maxime de Le Mans",
+    "badge": "Affilié vérifié ##097",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-098-AYZR",
+    "affiliate_name": "Léa Lefebvre",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-098-AYZR",
+    "custom_message": "Boutique recommandée par Léa de Toulon",
+    "badge": "Affilié vérifié ##098",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-099-E8TN",
+    "affiliate_name": "Zoé Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-099-E8TN",
+    "custom_message": "Boutique recommandée par Zoé de Marseille",
+    "badge": "Affilié vérifié ##099",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-100-7Z6F",
+    "affiliate_name": "Théo Michel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-100-7Z6F",
+    "custom_message": "Boutique recommandée par Théo de Nice",
+    "badge": "Affilié vérifié ##100",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-101-ES6O",
+    "affiliate_name": "Alexandre Michel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-101-ES6O",
+    "custom_message": "Boutique recommandée par Alexandre de Le Mans",
+    "badge": "Affilié vérifié ##101",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-102-LDGR",
+    "affiliate_name": "Camille Dupont",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-102-LDGR",
+    "custom_message": "Boutique recommandée par Camille de Reims",
+    "badge": "Affilié vérifié ##102",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Resistance Band Set",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-103-SYSH",
+    "affiliate_name": "Inès Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-103-SYSH",
+    "custom_message": "Boutique recommandée par Inès de Perpignan",
+    "badge": "Affilié vérifié ##103",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Galaxy Projector Light",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-104-KWU6",
+    "affiliate_name": "Nathan Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-104-KWU6",
+    "custom_message": "Boutique recommandée par Nathan de Toulon",
+    "badge": "Affilié vérifié ##104",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-105-PVSN",
+    "affiliate_name": "Antoine Faure",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-105-PVSN",
+    "custom_message": "Boutique recommandée par Antoine de Perpignan",
+    "badge": "Affilié vérifié ##105",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-106-SGY8",
+    "affiliate_name": "Jade Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-106-SGY8",
+    "custom_message": "Boutique recommandée par Jade de Clermont-Ferrand",
+    "badge": "Affilié vérifié ##106",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-107-5EP0",
+    "affiliate_name": "Théo Mercier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-107-5EP0",
+    "custom_message": "Boutique recommandée par Théo de Toulon",
+    "badge": "Affilié vérifié ##107",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-108-67EH",
+    "affiliate_name": "Eva Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-108-67EH",
+    "custom_message": "Boutique recommandée par Eva de Le Havre",
+    "badge": "Affilié vérifié ##108",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-109-BQ6U",
+    "affiliate_name": "Julie Robert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-109-BQ6U",
+    "custom_message": "Boutique recommandée par Julie de Clermont-Ferrand",
+    "badge": "Affilié vérifié ##109",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-110-W3XT",
+    "affiliate_name": "Rose Lambert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-110-W3XT",
+    "custom_message": "Boutique recommandée par Rose de Lyon",
+    "badge": "Affilié vérifié ##110",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-111-ER3N",
+    "affiliate_name": "Nicolas François",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-111-ER3N",
+    "custom_message": "Boutique recommandée par Nicolas de Clermont-Ferrand",
+    "badge": "Affilié vérifié ##111",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-112-HUE5",
+    "affiliate_name": "Gabriel David",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-112-HUE5",
+    "custom_message": "Boutique recommandée par Gabriel de Boulogne-Billancourt",
+    "badge": "Affilié vérifié ##112",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-113-Z4LR",
+    "affiliate_name": "Rose Leroy",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-113-Z4LR",
+    "custom_message": "Boutique recommandée par Rose de Lille",
+    "badge": "Affilié vérifié ##113",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-114-JVUW",
+    "affiliate_name": "Louise Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-114-JVUW",
+    "custom_message": "Boutique recommandée par Louise de Besançon",
+    "badge": "Affilié vérifié ##114",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-115-ZVUC",
+    "affiliate_name": "Gabriel Bonnet",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-115-ZVUC",
+    "custom_message": "Boutique recommandée par Gabriel de Dijon",
+    "badge": "Affilié vérifié ##115",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-116-GH67",
+    "affiliate_name": "Clara Fournier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-116-GH67",
+    "custom_message": "Boutique recommandée par Clara de Clermont-Ferrand",
+    "badge": "Affilié vérifié ##116",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-117-CM2E",
+    "affiliate_name": "Benjamin Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-117-CM2E",
+    "custom_message": "Boutique recommandée par Benjamin de Orléans",
+    "badge": "Affilié vérifié ##117",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-118-0N7E",
+    "affiliate_name": "Tom Lefebvre",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-118-0N7E",
+    "custom_message": "Boutique recommandée par Tom de Aix-en-Provence",
+    "badge": "Affilié vérifié ##118",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-119-K8OO",
+    "affiliate_name": "Lucas Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-119-K8OO",
+    "custom_message": "Boutique recommandée par Lucas de Boulogne-Billancourt",
+    "badge": "Affilié vérifié ##119",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Galaxy Projector Light",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-120-LIBU",
+    "affiliate_name": "Paul Roux",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-120-LIBU",
+    "custom_message": "Boutique recommandée par Paul de Nîmes",
+    "badge": "Affilié vérifié ##120",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-121-FA0V",
+    "affiliate_name": "Théo Laurent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-121-FA0V",
+    "custom_message": "Boutique recommandée par Théo de Nantes",
+    "badge": "Affilié vérifié ##121",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Smart Fitness Watch",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-122-TY7U",
+    "affiliate_name": "Hugo Dubois",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-122-TY7U",
+    "custom_message": "Boutique recommandée par Hugo de Angers",
+    "badge": "Affilié vérifié ##122",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-123-SW11",
+    "affiliate_name": "Lola Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-123-SW11",
+    "custom_message": "Boutique recommandée par Lola de Nantes",
+    "badge": "Affilié vérifié ##123",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-124-DX1I",
+    "affiliate_name": "Adam Morel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-124-DX1I",
+    "custom_message": "Boutique recommandée par Adam de Bordeaux",
+    "badge": "Affilié vérifié ##124",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-125-TQT2",
+    "affiliate_name": "Zoé Legrand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-125-TQT2",
+    "custom_message": "Boutique recommandée par Zoé de Nice",
+    "badge": "Affilié vérifié ##125",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Resistance Band Set",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-126-Q087",
+    "affiliate_name": "Léa David",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-126-Q087",
+    "custom_message": "Boutique recommandée par Léa de Toulouse",
+    "badge": "Affilié vérifié ##126",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-127-JWOL",
+    "affiliate_name": "Lucie Leroy",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-127-JWOL",
+    "custom_message": "Boutique recommandée par Lucie de Bordeaux",
+    "badge": "Affilié vérifié ##127",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-128-7FXW",
+    "affiliate_name": "Sarah Lambert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-128-7FXW",
+    "custom_message": "Boutique recommandée par Sarah de Metz",
+    "badge": "Affilié vérifié ##128",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Smart Fitness Watch",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-129-2P53",
+    "affiliate_name": "Alex Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-129-2P53",
+    "custom_message": "Boutique recommandée par Alex de Orléans",
+    "badge": "Affilié vérifié ##129",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-130-CHRQ",
+    "affiliate_name": "Raphaël Durand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-130-CHRQ",
+    "custom_message": "Boutique recommandée par Raphaël de Amiens",
+    "badge": "Affilié vérifié ##130",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-131-HG0Z",
+    "affiliate_name": "Inès Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-131-HG0Z",
+    "custom_message": "Boutique recommandée par Inès de Rennes",
+    "badge": "Affilié vérifié ##131",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-132-KE30",
+    "affiliate_name": "Camille Leroy",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-132-KE30",
+    "custom_message": "Boutique recommandée par Camille de Besançon",
+    "badge": "Affilié vérifié ##132",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-133-BAHL",
+    "affiliate_name": "Louis Michel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-133-BAHL",
+    "custom_message": "Boutique recommandée par Louis de Aix-en-Provence",
+    "badge": "Affilié vérifié ##133",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-134-84Q3",
+    "affiliate_name": "Lucas Martin",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-134-84Q3",
+    "custom_message": "Boutique recommandée par Lucas de Brest",
+    "badge": "Affilié vérifié ##134",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-135-953J",
+    "affiliate_name": "Alex François",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-135-953J",
+    "custom_message": "Boutique recommandée par Alex de Nice",
+    "badge": "Affilié vérifié ##135",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-136-QXB4",
+    "affiliate_name": "Lola Michel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-136-QXB4",
+    "custom_message": "Boutique recommandée par Lola de Lyon",
+    "badge": "Affilié vérifié ##136",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-137-XLCN",
+    "affiliate_name": "Antoine Girard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-137-XLCN",
+    "custom_message": "Boutique recommandée par Antoine de Aix-en-Provence",
+    "badge": "Affilié vérifié ##137",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-138-PDVF",
+    "affiliate_name": "Alex Morel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-138-PDVF",
+    "custom_message": "Boutique recommandée par Alex de Brest",
+    "badge": "Affilié vérifié ##138",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-139-Z2FT",
+    "affiliate_name": "Jade Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-139-Z2FT",
+    "custom_message": "Boutique recommandée par Jade de Paris",
+    "badge": "Affilié vérifié ##139",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-140-EXN7",
+    "affiliate_name": "Louise Vincent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-140-EXN7",
+    "custom_message": "Boutique recommandée par Louise de Lille",
+    "badge": "Affilié vérifié ##140",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-141-ON2T",
+    "affiliate_name": "Victor Mercier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-141-ON2T",
+    "custom_message": "Boutique recommandée par Victor de Saint-Étienne",
+    "badge": "Affilié vérifié ##141",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-142-494Y",
+    "affiliate_name": "Camille Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-142-494Y",
+    "custom_message": "Boutique recommandée par Camille de Lille",
+    "badge": "Affilié vérifié ##142",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-143-K0NJ",
+    "affiliate_name": "Sophie Dubois",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-143-K0NJ",
+    "custom_message": "Boutique recommandée par Sophie de Marseille",
+    "badge": "Affilié vérifié ##143",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-144-BXSH",
+    "affiliate_name": "Alex François",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-144-BXSH",
+    "custom_message": "Boutique recommandée par Alex de Aix-en-Provence",
+    "badge": "Affilié vérifié ##144",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-145-52TT",
+    "affiliate_name": "Arthur Moreau",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-145-52TT",
+    "custom_message": "Boutique recommandée par Arthur de Besançon",
+    "badge": "Affilié vérifié ##145",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-146-J48G",
+    "affiliate_name": "Léa André",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-146-J48G",
+    "custom_message": "Boutique recommandée par Léa de Dijon",
+    "badge": "Affilié vérifié ##146",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-147-2K2M",
+    "affiliate_name": "Alice Dupont",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-147-2K2M",
+    "custom_message": "Boutique recommandée par Alice de Nantes",
+    "badge": "Affilié vérifié ##147",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-148-GJJO",
+    "affiliate_name": "Antoine Morel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-148-GJJO",
+    "custom_message": "Boutique recommandée par Antoine de Montpellier",
+    "badge": "Affilié vérifié ##148",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-149-OT2P",
+    "affiliate_name": "Victor Martinez",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-149-OT2P",
+    "custom_message": "Boutique recommandée par Victor de Marseille",
+    "badge": "Affilié vérifié ##149",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-150-R82W",
+    "affiliate_name": "Julie André",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-150-R82W",
+    "custom_message": "Boutique recommandée par Julie de Lille",
+    "badge": "Affilié vérifié ##150",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-151-8Y17",
+    "affiliate_name": "Louise François",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-151-8Y17",
+    "custom_message": "Boutique recommandée par Louise de Le Mans",
+    "badge": "Affilié vérifié ##151",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-152-WJTW",
+    "affiliate_name": "Nathan Girard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-152-WJTW",
+    "custom_message": "Boutique recommandée par Nathan de Le Havre",
+    "badge": "Affilié vérifié ##152",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-153-7QN5",
+    "affiliate_name": "Camille Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-153-7QN5",
+    "custom_message": "Boutique recommandée par Camille de Dijon",
+    "badge": "Affilié vérifié ##153",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Galaxy Projector Light",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-154-7VGI",
+    "affiliate_name": "Jules Bonnet",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-154-7VGI",
+    "custom_message": "Boutique recommandée par Jules de Nîmes",
+    "badge": "Affilié vérifié ##154",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-155-P8ZW",
+    "affiliate_name": "Lola Martin",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-155-P8ZW",
+    "custom_message": "Boutique recommandée par Lola de Reims",
+    "badge": "Affilié vérifié ##155",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-156-74T0",
+    "affiliate_name": "Adam Girard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-156-74T0",
+    "custom_message": "Boutique recommandée par Adam de Bordeaux",
+    "badge": "Affilié vérifié ##156",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-157-GHU0",
+    "affiliate_name": "Clara Petit",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-157-GHU0",
+    "custom_message": "Boutique recommandée par Clara de Clermont-Ferrand",
+    "badge": "Affilié vérifié ##157",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-158-1T0S",
+    "affiliate_name": "Chloé Richard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-158-1T0S",
+    "custom_message": "Boutique recommandée par Chloé de Metz",
+    "badge": "Affilié vérifié ##158",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-159-MPKX",
+    "affiliate_name": "Sarah Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-159-MPKX",
+    "custom_message": "Boutique recommandée par Sarah de Montpellier",
+    "badge": "Affilié vérifié ##159",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-160-XMYQ",
+    "affiliate_name": "Raphaël Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-160-XMYQ",
+    "custom_message": "Boutique recommandée par Raphaël de Nice",
+    "badge": "Affilié vérifié ##160",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-161-HAOY",
+    "affiliate_name": "Adam Petit",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-161-HAOY",
+    "custom_message": "Boutique recommandée par Adam de Lyon",
+    "badge": "Affilié vérifié ##161",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-162-THT3",
+    "affiliate_name": "Camille Bertrand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-162-THT3",
+    "custom_message": "Boutique recommandée par Camille de Paris",
+    "badge": "Affilié vérifié ##162",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-163-FSOH",
+    "affiliate_name": "Zoé Robert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-163-FSOH",
+    "custom_message": "Boutique recommandée par Zoé de Nîmes",
+    "badge": "Affilié vérifié ##163",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-164-2EWP",
+    "affiliate_name": "Camille Thomas",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-164-2EWP",
+    "custom_message": "Boutique recommandée par Camille de Lyon",
+    "badge": "Affilié vérifié ##164",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-165-V3N4",
+    "affiliate_name": "Léa Laurent",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-165-V3N4",
+    "custom_message": "Boutique recommandée par Léa de Orléans",
+    "badge": "Affilié vérifié ##165",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-166-4HJB",
+    "affiliate_name": "Louise Legrand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-166-4HJB",
+    "custom_message": "Boutique recommandée par Louise de Rennes",
+    "badge": "Affilié vérifié ##166",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Smart Fitness Watch",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-167-VS2O",
+    "affiliate_name": "Mathis Lambert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-167-VS2O",
+    "custom_message": "Boutique recommandée par Mathis de Saint-Étienne",
+    "badge": "Affilié vérifié ##167",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-168-E1RW",
+    "affiliate_name": "Sarah Mercier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-168-E1RW",
+    "custom_message": "Boutique recommandée par Sarah de Strasbourg",
+    "badge": "Affilié vérifié ##168",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-169-MKD2",
+    "affiliate_name": "Alex Lefebvre",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-169-MKD2",
+    "custom_message": "Boutique recommandée par Alex de Metz",
+    "badge": "Affilié vérifié ##169",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Galaxy Projector Light",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-170-GC0X",
+    "affiliate_name": "Tom Bernard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-170-GC0X",
+    "custom_message": "Boutique recommandée par Tom de Orléans",
+    "badge": "Affilié vérifié ##170",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-171-MYPC",
+    "affiliate_name": "Jules Martinez",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-171-MYPC",
+    "custom_message": "Boutique recommandée par Jules de Saint-Denis",
+    "badge": "Affilié vérifié ##171",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-172-FFQC",
+    "affiliate_name": "Antoine Petit",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-172-FFQC",
+    "custom_message": "Boutique recommandée par Antoine de Saint-Étienne",
+    "badge": "Affilié vérifié ##172",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-173-FQEP",
+    "affiliate_name": "Alex Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-173-FQEP",
+    "custom_message": "Boutique recommandée par Alex de Boulogne-Billancourt",
+    "badge": "Affilié vérifié ##173",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-174-RW1B",
+    "affiliate_name": "Lisa Robert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-174-RW1B",
+    "custom_message": "Boutique recommandée par Lisa de Strasbourg",
+    "badge": "Affilié vérifié ##174",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-175-O7B6",
+    "affiliate_name": "Alexandre Bonnet",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-175-O7B6",
+    "custom_message": "Boutique recommandée par Alexandre de Toulon",
+    "badge": "Affilié vérifié ##175",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-176-IXD9",
+    "affiliate_name": "Alexandre Bonnet",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-176-IXD9",
+    "custom_message": "Boutique recommandée par Alexandre de Toulon",
+    "badge": "Affilié vérifié ##176",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-177-8IOI",
+    "affiliate_name": "Alice Fournier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-177-8IOI",
+    "custom_message": "Boutique recommandée par Alice de Metz",
+    "badge": "Affilié vérifié ##177",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-178-C8JM",
+    "affiliate_name": "Rose Simon",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-178-C8JM",
+    "custom_message": "Boutique recommandée par Rose de Saint-Étienne",
+    "badge": "Affilié vérifié ##178",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Galaxy Projector Light",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-179-1377",
+    "affiliate_name": "Nicolas Faure",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-179-1377",
+    "custom_message": "Boutique recommandée par Nicolas de Clermont-Ferrand",
+    "badge": "Affilié vérifié ##179",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-180-3M3U",
+    "affiliate_name": "Louise Mercier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-180-3M3U",
+    "custom_message": "Boutique recommandée par Louise de Marseille",
+    "badge": "Affilié vérifié ##180",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-181-BB5A",
+    "affiliate_name": "Nicolas Lefebvre",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-181-BB5A",
+    "custom_message": "Boutique recommandée par Nicolas de Le Mans",
+    "badge": "Affilié vérifié ##181",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-182-XSUT",
+    "affiliate_name": "Théo Martinez",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-182-XSUT",
+    "custom_message": "Boutique recommandée par Théo de Nice",
+    "badge": "Affilié vérifié ##182",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-183-3RWH",
+    "affiliate_name": "Marie Leroy",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-183-3RWH",
+    "custom_message": "Boutique recommandée par Marie de Dijon",
+    "badge": "Affilié vérifié ##183",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-184-EP2D",
+    "affiliate_name": "Lola Roux",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-184-EP2D",
+    "custom_message": "Boutique recommandée par Lola de Paris",
+    "badge": "Affilié vérifié ##184",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-185-J8V8",
+    "affiliate_name": "Antoine Robert",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-185-J8V8",
+    "custom_message": "Boutique recommandée par Antoine de Reims",
+    "badge": "Affilié vérifié ##185",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Resistance Band Set",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-186-2272",
+    "affiliate_name": "Théo David",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-186-2272",
+    "custom_message": "Boutique recommandée par Théo de Brest",
+    "badge": "Affilié vérifié ##186",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-187-8HHM",
+    "affiliate_name": "Jade Bertrand",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-187-8HHM",
+    "custom_message": "Boutique recommandée par Jade de Montpellier",
+    "badge": "Affilié vérifié ##187",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Resistance Band Set",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-188-5NLW",
+    "affiliate_name": "Julien Roux",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-188-5NLW",
+    "custom_message": "Boutique recommandée par Julien de Nantes",
+    "badge": "Affilié vérifié ##188",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-189-6UW7",
+    "affiliate_name": "Camille Garcia",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-189-6UW7",
+    "custom_message": "Boutique recommandée par Camille de Le Havre",
+    "badge": "Affilié vérifié ##189",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Portable Blender",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-190-S9XT",
+    "affiliate_name": "Benjamin Faure",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-190-S9XT",
+    "custom_message": "Boutique recommandée par Benjamin de Rennes",
+    "badge": "Affilié vérifié ##190",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Wireless Earbuds Pro",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-191-ZJ8A",
+    "affiliate_name": "Inès Petit",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-191-ZJ8A",
+    "custom_message": "Boutique recommandée par Inès de Bordeaux",
+    "badge": "Affilié vérifié ##191",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Smart Fitness Watch",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-192-GHAC",
+    "affiliate_name": "Marie Simon",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-192-GHAC",
+    "custom_message": "Boutique recommandée par Marie de Limoges",
+    "badge": "Affilié vérifié ##192",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Wireless Earbuds Pro"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-193-C1XZ",
+    "affiliate_name": "Zoé Garnier",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-193-C1XZ",
+    "custom_message": "Boutique recommandée par Zoé de Lyon",
+    "badge": "Affilié vérifié ##193",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-194-493B",
+    "affiliate_name": "Julien Girard",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-194-493B",
+    "custom_message": "Boutique recommandée par Julien de Tours",
+    "badge": "Affilié vérifié ##194",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-195-TLP2",
+    "affiliate_name": "Emma Michel",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-195-TLP2",
+    "custom_message": "Boutique recommandée par Emma de Grenoble",
+    "badge": "Affilié vérifié ##195",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Smart Fitness Watch",
+      "Resistance Band Set"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-196-GK4H",
+    "affiliate_name": "Laura Dubois",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-196-GK4H",
+    "custom_message": "Boutique recommandée par Laura de Amiens",
+    "badge": "Affilié vérifié ##196",
+    "discount_code": null,
+    "priority_products": [
+      "Wireless Earbuds Pro",
+      "Smart Fitness Watch",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-197-IY1X",
+    "affiliate_name": "Chloé André",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-197-IY1X",
+    "custom_message": "Boutique recommandée par Chloé de Le Havre",
+    "badge": "Affilié vérifié ##197",
+    "discount_code": null,
+    "priority_products": [
+      "Resistance Band Set",
+      "Smart Fitness Watch",
+      "Portable Blender"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-198-WY77",
+    "affiliate_name": "Alex Bonnet",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-198-WY77",
+    "custom_message": "Boutique recommandée par Alex de Nantes",
+    "badge": "Affilié vérifié ##198",
+    "discount_code": null,
+    "priority_products": [
+      "Portable Blender",
+      "Resistance Band Set",
+      "Galaxy Projector Light"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-199-RJYM",
+    "affiliate_name": "Raphaël André",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-199-RJYM",
+    "custom_message": "Boutique recommandée par Raphaël de Aix-en-Provence",
+    "badge": "Affilié vérifié ##199",
+    "discount_code": null,
+    "priority_products": [
+      "Galaxy Projector Light",
+      "Portable Blender",
+      "Smart Fitness Watch"
+    ]
+  },
+  {
+    "affiliate_code": "AFF-200-2VHD",
+    "affiliate_name": "Margot David",
+    "store_url": "https://rapid-sales-system.preview.emergentagent.com/store?ref=AFF-200-2VHD",
+    "custom_message": "Boutique recommandée par Margot de Marseille",
+    "badge": "Affilié vérifié ##200",
+    "discount_code": null,
+    "priority_products": [
+      "Smart Fitness Watch",
+      "Portable Blender",
+      "Resistance Band Set"
+    ]
+  }
+]

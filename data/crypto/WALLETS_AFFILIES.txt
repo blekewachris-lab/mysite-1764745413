@@ -1,0 +1,99 @@
+═══════════════════════════════════════════════════════════
+💎 WALLETS DES 50 AFFILIÉS CRYPTO
+═══════════════════════════════════════════════════════════
+
+⚠️  IMPORTANT: Ces wallets sont des EXEMPLES générés aléatoirement.
+    Pour production, chaque affilié doit fournir ses propres wallets.
+
+Affilié: Vitalik NFT (CRYPTO-01-WZ0EN)
+Username: @vitalik_crypto551
+Email: vitalik.nft@protonmail.com
+Wallets:
+  ₿ BTC:  bc1q5pf73retkbdycnxh0qemsur89ueb3rbk9w41b1z
+  Ξ ETH:  0x40ed8ec7b65f3f0fd1b42b4ffdf656b6d9d7615a
+  ₮ USDT: 0x6eeac366ac5312e2b72ad8d7c14edde39946d5d8
+  ⚡ BNB:  bnbbqbannu1urt9yp15xkabz6rufk1kxnp2k0ka9b
+
+Affilié: Charlie Diamond (CRYPTO-02-R3AIO)
+Username: @charlie_crypto730
+Email: charlie.diamond@protonmail.com
+Wallets:
+  ₿ BTC:  bc1q2c28h96mz81u75ljnzyn4s28m31hl4mat1lf00t
+  Ξ ETH:  0x3ed74c8c2ae92c9ffc0618748ef0bfddfcf960e0
+  ₮ USDT: 0xff532ae93adbcdcccdb564a048c84fd3b319a07b
+  ⚡ BNB:  bnbjpirl1khqz8jw50l5zmqr9byat1esuf44osq0b
+
+Affilié: Hal Whale (CRYPTO-03-BQT3P)
+Username: @hal_crypto772
+Email: hal.whale@protonmail.com
+Wallets:
+  ₿ BTC:  bc1q5ive790kwx6ztyj6gpje7rhsxiq38fhkrszq0vb
+  Ξ ETH:  0xa6adf6cecb475bdfbcd0fabf28bb48b06c32b6ff
+  ₮ USDT: 0x7ad2e8e40df5dbbedffe6ddeacbabdec2e39873f
+  ⚡ BNB:  bnbl2y9666wujbu7kx9bv5ld0o9ef2ov9vl1wzdnw
+
+Affilié: Matthew Bull (CRYPTO-04-R67KV)
+Username: @matthew_crypto422
+Email: matthew.bull@protonmail.com
+Wallets:
+  ₿ BTC:  bc1qdnpsa4g9ebojaxl2tdh4k0k3qqz4ktz60vg7ntn
+  Ξ ETH:  0x2fbd0e4f2c77fcd2aeabaf8747afeec1afaaf9fc
+  ₮ USDT: 0x7afaf54a97bba7a5b34a3f58cb9cede6a1fd646e
+  ⚡ BNB:  bnbmvb0o94wavwxlm3h28dujacizbxuls9mu9d6dx
+
+Affilié: Elon Hodler (CRYPTO-05-FWNR1)
+Username: @elon_crypto960
+Email: elon.hodler@protonmail.com
+Wallets:
+  ₿ BTC:  bc1q2s5vuqhxa8jdr21tqts0jueq3ctfrjikoim760w
+  Ξ ETH:  0x296b01a0bd547ca5f7d84f1f4bda26efccd3ab14
+  ₮ USDT: 0xdadd132a9399e4ffd36d01af37f3ad61ac72afb3
+  ⚡ BNB:  bnbvv3k2pe6x7439pz8i0dx2k1hchnaodpz2bdrx1
+
+Affilié: Tyler Whale (CRYPTO-06-XNI5T)
+Username: @tyler_crypto213
+Email: tyler.whale@protonmail.com
+Wallets:
+  ₿ BTC:  bc1qugs1zj7hp2n6p6clodb4ywfv2tu9mir1lvc27cl
+  Ξ ETH:  0x6ab69acaf5e0352c2e99d1807fa7c2c9fe7c9f28
+  ₮ USDT: 0xeeedbecfdda63fc6672d5beadc47c8886dd8a7ec
+  ⚡ BNB:  bnbfwv8gnkcv9pgql9p3oqzzkefkw0unhtg8t8gs7
+
+Affilié: Hal Protocol (CRYPTO-07-9UWJL)
+Username: @hal_crypto671
+Email: hal.protocol@protonmail.com
+Wallets:
+  ₿ BTC:  bc1qd052hnxs29hsxwn2jgmc61m1o2mew8v7fcujw07
+  Ξ ETH:  0x680f71fd0b10a8e6a18bd7eb7eeda02baeedfe02
+  ₮ USDT: 0x9bcdc5a4a81c9b869bafdd5b8bedbb6e8ef8bff0
+  ⚡ BNB:  bnbk3zs1jno4w6hx9e5ejyqz39skopl6p3ojlnveq
+
+Affilié: Satoshi Ape (CRYPTO-08-WCFUA)
+Username: @satoshi_crypto196
+Email: satoshi.ape@protonmail.com
+Wallets:
+  ₿ BTC:  bc1qgp099kzy85xhy2qjup98ep9ww29wedrer50j1ki
+  Ξ ETH:  0xa78d8fe22374e7b7ff09eaeb152dfc3c09bb4dcd
+  ₮ USDT: 0x2f9deeea2c9ceea7dfba896aed9bf5d1a05883bd
+  ⚡ BNB:  bnb1ohj0c2bodkn10h97pct993nrtmmpb86f5lbbb
+
+Affilié: Roger Crypto (CRYPTO-09-TN9EE)
+Username: @roger_crypto540
+Email: roger.crypto@protonmail.com
+Wallets:
+  ₿ BTC:  bc1q74t2z0j188ahmp9njawt8ahr4k5dex1v8f4a26u
+  Ξ ETH:  0xa2623feee488e8980e869a313b6e2c8c4b6958c8
+  ₮ USDT: 0xad2c4c0f4cadad3401aff23f5c38c0b6b30e59db
+  ⚡ BNB:  bnby7pdak9glcnn1jxboxskxmavot810qawoox0cb
+
+Affilié: Adam Trader (CRYPTO-10-8ER18)
+Username: @adam_crypto75
+Email: adam.trader@protonmail.com
+Wallets:
+  ₿ BTC:  bc1qy49d6cf5gb0h80ym6spgzo0y3nye8x7lk4r6c78
+  Ξ ETH:  0x3ab31fe6d3fd4eba846e5ef61db64c19dca85e1f
+  ₮ USDT: 0xeac6a3dbffe5ef380ed72c5da23ea9f77349ba54
+  ⚡ BNB:  bnbor8twlta4dwewyr1x4ygugqm31p5r0q7loeluf
+
+
+... +40 autres affiliés dans le fichier JSON

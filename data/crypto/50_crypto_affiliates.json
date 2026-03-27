@@ -1,0 +1,2278 @@
+[
+  {
+    "id": 1,
+    "numero": "#C01",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-01-WZ0EN",
+    "nom": "Vitalik NFT",
+    "username": "@vitalik_crypto551",
+    "email": "vitalik.nft@protonmail.com",
+    "exchange_prefere": "Bitget",
+    "wallets": {
+      "bitcoin": "bc1q5pf73retkbdycnxh0qemsur89ueb3rbk9w41b1z",
+      "ethereum": "0x40ed8ec7b65f3f0fd1b42b4ffdf656b6d9d7615a",
+      "usdt": "0x6eeac366ac5312e2b72ad8d7c14edde39946d5d8",
+      "bnb": "bnbbqbannu1urt9yp15xkabz6rufk1kxnp2k0ka9b"
+    },
+    "cryptos_acceptees": [
+      "ETH",
+      "ADA",
+      "BNB",
+      "BTC",
+      "SOL",
+      "USDT"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1315,
+    "total_conversions": 69,
+    "total_earnings": {
+      "usd": 935.56,
+      "btc": 0.00984799,
+      "eth": 0.2462
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-01-WZ0EN&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-01-WZ0EN",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-01-WZ0EN"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #01\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.615901",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 2,
+    "numero": "#C02",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-02-R3AIO",
+    "nom": "Charlie Diamond",
+    "username": "@charlie_crypto730",
+    "email": "charlie.diamond@protonmail.com",
+    "exchange_prefere": "Crypto.com",
+    "wallets": {
+      "bitcoin": "bc1q2c28h96mz81u75ljnzyn4s28m31hl4mat1lf00t",
+      "ethereum": "0x3ed74c8c2ae92c9ffc0618748ef0bfddfcf960e0",
+      "usdt": "0xff532ae93adbcdcccdb564a048c84fd3b319a07b",
+      "bnb": "bnbjpirl1khqz8jw50l5zmqr9byat1esuf44osq0b"
+    },
+    "cryptos_acceptees": [
+      "USDC",
+      "BNB",
+      "DOGE",
+      "XRP",
+      "ADA",
+      "SOL"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 557,
+    "total_conversions": 41,
+    "total_earnings": {
+      "usd": 574.77,
+      "btc": 0.00605017,
+      "eth": 0.151254
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-02-R3AIO&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-02-R3AIO",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-02-R3AIO"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #02\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.615941",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 3,
+    "numero": "#C03",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-03-BQT3P",
+    "nom": "Hal Whale",
+    "username": "@hal_crypto772",
+    "email": "hal.whale@protonmail.com",
+    "exchange_prefere": "Crypto.com",
+    "wallets": {
+      "bitcoin": "bc1q5ive790kwx6ztyj6gpje7rhsxiq38fhkrszq0vb",
+      "ethereum": "0xa6adf6cecb475bdfbcd0fabf28bb48b06c32b6ff",
+      "usdt": "0x7ad2e8e40df5dbbedffe6ddeacbabdec2e39873f",
+      "bnb": "bnbl2y9666wujbu7kx9bv5ld0o9ef2ov9vl1wzdnw"
+    },
+    "cryptos_acceptees": [
+      "BTC",
+      "ETH",
+      "XRP",
+      "USDT",
+      "BNB",
+      "SOL"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1192,
+    "total_conversions": 24,
+    "total_earnings": {
+      "usd": 194.59,
+      "btc": 0.00204829,
+      "eth": 0.051207
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-03-BQT3P&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-03-BQT3P",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-03-BQT3P"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #03\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.615970",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 4,
+    "numero": "#C04",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-04-R67KV",
+    "nom": "Matthew Bull",
+    "username": "@matthew_crypto422",
+    "email": "matthew.bull@protonmail.com",
+    "exchange_prefere": "KuCoin",
+    "wallets": {
+      "bitcoin": "bc1qdnpsa4g9ebojaxl2tdh4k0k3qqz4ktz60vg7ntn",
+      "ethereum": "0x2fbd0e4f2c77fcd2aeabaf8747afeec1afaaf9fc",
+      "usdt": "0x7afaf54a97bba7a5b34a3f58cb9cede6a1fd646e",
+      "bnb": "bnbmvb0o94wavwxlm3h28dujacizbxuls9mu9d6dx"
+    },
+    "cryptos_acceptees": [
+      "BTC",
+      "BNB",
+      "ADA",
+      "XRP",
+      "SOL",
+      "USDT",
+      "DOGE"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1911,
+    "total_conversions": 48,
+    "total_earnings": {
+      "usd": 668.04,
+      "btc": 0.00703204,
+      "eth": 0.175801
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-04-R67KV&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-04-R67KV",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-04-R67KV"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #04\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.615998",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 5,
+    "numero": "#C05",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-05-FWNR1",
+    "nom": "Elon Hodler",
+    "username": "@elon_crypto960",
+    "email": "elon.hodler@protonmail.com",
+    "exchange_prefere": "Bitget",
+    "wallets": {
+      "bitcoin": "bc1q2s5vuqhxa8jdr21tqts0jueq3ctfrjikoim760w",
+      "ethereum": "0x296b01a0bd547ca5f7d84f1f4bda26efccd3ab14",
+      "usdt": "0xdadd132a9399e4ffd36d01af37f3ad61ac72afb3",
+      "bnb": "bnbvv3k2pe6x7439pz8i0dx2k1hchnaodpz2bdrx1"
+    },
+    "cryptos_acceptees": [
+      "MATIC",
+      "SOL",
+      "DOGE",
+      "USDC",
+      "XRP"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1455,
+    "total_conversions": 64,
+    "total_earnings": {
+      "usd": 679.51,
+      "btc": 0.00715272,
+      "eth": 0.178818
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-05-FWNR1&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-05-FWNR1",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-05-FWNR1"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #05\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616022",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 6,
+    "numero": "#C06",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-06-XNI5T",
+    "nom": "Tyler Whale",
+    "username": "@tyler_crypto213",
+    "email": "tyler.whale@protonmail.com",
+    "exchange_prefere": "Bybit",
+    "wallets": {
+      "bitcoin": "bc1qugs1zj7hp2n6p6clodb4ywfv2tu9mir1lvc27cl",
+      "ethereum": "0x6ab69acaf5e0352c2e99d1807fa7c2c9fe7c9f28",
+      "usdt": "0xeeedbecfdda63fc6672d5beadc47c8886dd8a7ec",
+      "bnb": "bnbfwv8gnkcv9pgql9p3oqzzkefkw0unhtg8t8gs7"
+    },
+    "cryptos_acceptees": [
+      "USDC",
+      "USDT",
+      "BTC",
+      "SOL",
+      "MATIC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 829,
+    "total_conversions": 41,
+    "total_earnings": {
+      "usd": 218.64,
+      "btc": 0.00230145,
+      "eth": 0.057536
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-06-XNI5T&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-06-XNI5T",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-06-XNI5T"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #06\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616046",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 7,
+    "numero": "#C07",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-07-9UWJL",
+    "nom": "Hal Protocol",
+    "username": "@hal_crypto671",
+    "email": "hal.protocol@protonmail.com",
+    "exchange_prefere": "Kraken",
+    "wallets": {
+      "bitcoin": "bc1qd052hnxs29hsxwn2jgmc61m1o2mew8v7fcujw07",
+      "ethereum": "0x680f71fd0b10a8e6a18bd7eb7eeda02baeedfe02",
+      "usdt": "0x9bcdc5a4a81c9b869bafdd5b8bedbb6e8ef8bff0",
+      "bnb": "bnbk3zs1jno4w6hx9e5ejyqz39skopl6p3ojlnveq"
+    },
+    "cryptos_acceptees": [
+      "BNB",
+      "ADA",
+      "USDT",
+      "DOGE"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1647,
+    "total_conversions": 42,
+    "total_earnings": {
+      "usd": 328.44,
+      "btc": 0.00345725,
+      "eth": 0.086431
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-07-9UWJL&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-07-9UWJL",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-07-9UWJL"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #07\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616069",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 8,
+    "numero": "#C08",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-08-WCFUA",
+    "nom": "Satoshi Ape",
+    "username": "@satoshi_crypto196",
+    "email": "satoshi.ape@protonmail.com",
+    "exchange_prefere": "KuCoin",
+    "wallets": {
+      "bitcoin": "bc1qgp099kzy85xhy2qjup98ep9ww29wedrer50j1ki",
+      "ethereum": "0xa78d8fe22374e7b7ff09eaeb152dfc3c09bb4dcd",
+      "usdt": "0x2f9deeea2c9ceea7dfba896aed9bf5d1a05883bd",
+      "bnb": "bnb1ohj0c2bodkn10h97pct993nrtmmpb86f5lbbb"
+    },
+    "cryptos_acceptees": [
+      "SOL",
+      "ADA",
+      "USDT",
+      "DOGE",
+      "BTC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 222,
+    "total_conversions": 15,
+    "total_earnings": {
+      "usd": 142.09,
+      "btc": 0.00149571,
+      "eth": 0.037393
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-08-WCFUA&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-08-WCFUA",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-08-WCFUA"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #08\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616100",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 9,
+    "numero": "#C09",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-09-TN9EE",
+    "nom": "Roger Crypto",
+    "username": "@roger_crypto540",
+    "email": "roger.crypto@protonmail.com",
+    "exchange_prefere": "Coinbase",
+    "wallets": {
+      "bitcoin": "bc1q74t2z0j188ahmp9njawt8ahr4k5dex1v8f4a26u",
+      "ethereum": "0xa2623feee488e8980e869a313b6e2c8c4b6958c8",
+      "usdt": "0xad2c4c0f4cadad3401aff23f5c38c0b6b30e59db",
+      "bnb": "bnby7pdak9glcnn1jxboxskxmavot810qawoox0cb"
+    },
+    "cryptos_acceptees": [
+      "BTC",
+      "SOL",
+      "ETH",
+      "XRP"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 189,
+    "total_conversions": 11,
+    "total_earnings": {
+      "usd": 134.71,
+      "btc": 0.00141799,
+      "eth": 0.03545
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-09-TN9EE&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-09-TN9EE",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-09-TN9EE"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #09\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616126",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 10,
+    "numero": "#C10",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-10-8ER18",
+    "nom": "Adam Trader",
+    "username": "@adam_crypto75",
+    "email": "adam.trader@protonmail.com",
+    "exchange_prefere": "Bitget",
+    "wallets": {
+      "bitcoin": "bc1qy49d6cf5gb0h80ym6spgzo0y3nye8x7lk4r6c78",
+      "ethereum": "0x3ab31fe6d3fd4eba846e5ef61db64c19dca85e1f",
+      "usdt": "0xeac6a3dbffe5ef380ed72c5da23ea9f77349ba54",
+      "bnb": "bnbor8twlta4dwewyr1x4ygugqm31p5r0q7loeluf"
+    },
+    "cryptos_acceptees": [
+      "BTC",
+      "MATIC",
+      "ADA",
+      "BNB",
+      "USDC",
+      "DOGE"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1321,
+    "total_conversions": 61,
+    "total_earnings": {
+      "usd": 864.97,
+      "btc": 0.00910496,
+      "eth": 0.227624
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-10-8ER18&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-10-8ER18",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-10-8ER18"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #10\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616151",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 11,
+    "numero": "#C11",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-11-01RRT",
+    "nom": "Erik Validator",
+    "username": "@erik_crypto920",
+    "email": "erik.validator@protonmail.com",
+    "exchange_prefere": "Gate.io",
+    "wallets": {
+      "bitcoin": "bc1qu5c80xojxqvzu819swif9365h6lhi7mqdmtr5s5",
+      "ethereum": "0xf72c00f2b7db8fdee8d3dcf73c3a3c150cd8bccc",
+      "usdt": "0xbd44fe71b114d05bdedbfb9429c6ebccaced61cc",
+      "bnb": "bnboj6jujho826es79fz8dx1cugyru656oxg20vcg"
+    },
+    "cryptos_acceptees": [
+      "ADA",
+      "BNB",
+      "DOGE",
+      "XRP",
+      "ETH",
+      "SOL"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 109,
+    "total_conversions": 5,
+    "total_earnings": {
+      "usd": 45.01,
+      "btc": 0.00047377,
+      "eth": 0.011844
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-11-01RRT&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-11-01RRT",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-11-01RRT"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #11\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616178",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 12,
+    "numero": "#C12",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-12-8RJGF",
+    "nom": "Tyler Crypto",
+    "username": "@tyler_crypto435",
+    "email": "tyler.crypto@protonmail.com",
+    "exchange_prefere": "MEXC",
+    "wallets": {
+      "bitcoin": "bc1qrvzw4hy73hkhr8p01pzw3kg5uaqfzcxbh2sffjs",
+      "ethereum": "0x027da1b67de82fa0e3fdd9ad0e280aa67d82faf1",
+      "usdt": "0x6cc1ccefdef0ff3fa1dc0ada9d7114cce78eba89",
+      "bnb": "bnbwp14fwhk37ysqlb1c3qab9410d104c2gor63fr"
+    },
+    "cryptos_acceptees": [
+      "SOL",
+      "USDT",
+      "DOGE",
+      "BTC",
+      "BNB",
+      "MATIC",
+      "USDC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1969,
+    "total_conversions": 56,
+    "total_earnings": {
+      "usd": 660.64,
+      "btc": 0.00695414,
+      "eth": 0.173853
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-12-8RJGF&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-12-8RJGF",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-12-8RJGF"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #12\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616202",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 13,
+    "numero": "#C13",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-13-S0ET0",
+    "nom": "Nakamoto Hodler",
+    "username": "@nakamoto_crypto701",
+    "email": "nakamoto.hodler@protonmail.com",
+    "exchange_prefere": "Coinbase",
+    "wallets": {
+      "bitcoin": "bc1q4la64jbzcrl3a8enbegqsgs53j903tr8lirv8k6",
+      "ethereum": "0x5935e6e59dedd6617b93c09a13fc3829feadeb7d",
+      "usdt": "0xabd245cd87ebf0ccb186644be7fceaa4216fcaf7",
+      "bnb": "bnbqneoum2hqhlowxgqiqoikseqi7l1fqkxe03sjq"
+    },
+    "cryptos_acceptees": [
+      "ADA",
+      "USDC",
+      "ETH",
+      "MATIC",
+      "BNB",
+      "DOGE"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 581,
+    "total_conversions": 19,
+    "total_earnings": {
+      "usd": 95.43,
+      "btc": 0.00100458,
+      "eth": 0.025114
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-13-S0ET0&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-13-S0ET0",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-13-S0ET0"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #13\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616225",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 14,
+    "numero": "#C14",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-14-T3U3Y",
+    "nom": "Satoshi Web3",
+    "username": "@satoshi_crypto339",
+    "email": "satoshi.web3@protonmail.com",
+    "exchange_prefere": "OKX",
+    "wallets": {
+      "bitcoin": "bc1qtpn58eoc08q605hzslxajrs04poy759vvft8s4n",
+      "ethereum": "0xff9b7ceebdee1eb1af4fcabcff8fbac85e161be9",
+      "usdt": "0x1cf0fc5c7cea09f2617877427a0fe466cf8d83bd",
+      "bnb": "bnbki39g5lzq0wlu9l3hqsdohbg4aa6hi358vqfqj"
+    },
+    "cryptos_acceptees": [
+      "MATIC",
+      "USDT",
+      "BTC",
+      "ETH"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 184,
+    "total_conversions": 13,
+    "total_earnings": {
+      "usd": 152.2,
+      "btc": 0.00160212,
+      "eth": 0.040053
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-14-T3U3Y&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-14-T3U3Y",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-14-T3U3Y"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #14\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616250",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 15,
+    "numero": "#C15",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-15-5VHPD",
+    "nom": "Matthew Web3",
+    "username": "@matthew_crypto172",
+    "email": "matthew.web3@protonmail.com",
+    "exchange_prefere": "OKX",
+    "wallets": {
+      "bitcoin": "bc1qv3vnze617lcn6kbau1sve63sft29m8y8hiybc26",
+      "ethereum": "0xa1c52cec976aa92e3e2cb0db77c5e41b76cec36f",
+      "usdt": "0x3a526b75bccb0be4a9c8c5eb7256fbadde21eecb",
+      "bnb": "bnb142p3gdfl7wk9l3zl9iadlxcgcnvfb8cqfhfba"
+    },
+    "cryptos_acceptees": [
+      "XRP",
+      "ETH",
+      "MATIC",
+      "USDC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 468,
+    "total_conversions": 15,
+    "total_earnings": {
+      "usd": 111.85,
+      "btc": 0.00117739,
+      "eth": 0.029435
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-15-5VHPD&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-15-5VHPD",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-15-5VHPD"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #15\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616274",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 16,
+    "numero": "#C16",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-16-WJWOW",
+    "nom": "Arthur Miner",
+    "username": "@arthur_crypto333",
+    "email": "arthur.miner@protonmail.com",
+    "exchange_prefere": "KuCoin",
+    "wallets": {
+      "bitcoin": "bc1qv4ose2x3mva7kr830gnvtusnyk61zahg98sgiln",
+      "ethereum": "0xfbbd0246cfec4fe52be433fcebab4422c30f02fe",
+      "usdt": "0xee847e691c1b7dc441b9bceaabbecceccf6dcaed",
+      "bnb": "bnblx3j5gesh1opm7ld02uadtnp57pifmb301rc2a"
+    },
+    "cryptos_acceptees": [
+      "ETH",
+      "BTC",
+      "MATIC",
+      "BNB",
+      "DOGE",
+      "ADA",
+      "USDC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1891,
+    "total_conversions": 142,
+    "total_earnings": {
+      "usd": 1933.25,
+      "btc": 0.02034999,
+      "eth": 0.50875
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-16-WJWOW&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-16-WJWOW",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-16-WJWOW"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #16\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616296",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 17,
+    "numero": "#C17",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-17-8RW3Z",
+    "nom": "Nick Hodler",
+    "username": "@nick_crypto355",
+    "email": "nick.hodler@protonmail.com",
+    "exchange_prefere": "Binance",
+    "wallets": {
+      "bitcoin": "bc1q3h0qa4swqiov8zhmn6u61h2nbacweu6jwpv65qj",
+      "ethereum": "0x7fd28a38bc02bf3c7e5fd2ead1f4e150ad8fbead",
+      "usdt": "0x16fbac9dbcd6bc2bdceecd472a5eb1a32106177c",
+      "bnb": "bnbpnu9kzzcj2pjkvdqslbqi0s9az8y0arvfa86bo"
+    },
+    "cryptos_acceptees": [
+      "SOL",
+      "ADA",
+      "ETH",
+      "USDT",
+      "MATIC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 801,
+    "total_conversions": 30,
+    "total_earnings": {
+      "usd": 414.93,
+      "btc": 0.00436763,
+      "eth": 0.109191
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-17-8RW3Z&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-17-8RW3Z",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-17-8RW3Z"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #17\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616319",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 18,
+    "numero": "#C18",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-18-CJV5U",
+    "nom": "Jed Hodler",
+    "username": "@jed_crypto183",
+    "email": "jed.hodler@protonmail.com",
+    "exchange_prefere": "Bitget",
+    "wallets": {
+      "bitcoin": "bc1quly298mv13eimuwn3rm6fsmtyg9ijzcb32at3im",
+      "ethereum": "0x9dab3ebc1cd8dc9b0d2a57f70ebeb4d38fc32a8a",
+      "usdt": "0x2b929adeeb09f8b80aea2f63d0a2c56ede2fa2db",
+      "bnb": "bnbngwsbvzvfg8dicwaz2kxmt3svhvzj7e0pnlc5a"
+    },
+    "cryptos_acceptees": [
+      "XRP",
+      "ADA",
+      "USDT",
+      "SOL",
+      "DOGE",
+      "ETH"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 951,
+    "total_conversions": 45,
+    "total_earnings": {
+      "usd": 444.54,
+      "btc": 0.0046794,
+      "eth": 0.116985
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-18-CJV5U&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-18-CJV5U",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-18-CJV5U"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #18\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616342",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 19,
+    "numero": "#C19",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-19-1EUZV",
+    "nom": "Vitalik DAO",
+    "username": "@vitalik_crypto549",
+    "email": "vitalik.dao@protonmail.com",
+    "exchange_prefere": "KuCoin",
+    "wallets": {
+      "bitcoin": "bc1qtq8cmhp8mnjlizg4h86483s1cb5xxx050vr0zbg",
+      "ethereum": "0x16a4df84deb4a4fc1bbed4cbad4cf9fbaf564208",
+      "usdt": "0xcf86b4adc9aae0cee363135c0aabcdcb2c8fab7b",
+      "bnb": "bnbcwdqz94id7xsoeop5hrpgviyn3b4lpopy7rqad"
+    },
+    "cryptos_acceptees": [
+      "MATIC",
+      "DOGE",
+      "USDC",
+      "BNB",
+      "XRP"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1844,
+    "total_conversions": 87,
+    "total_earnings": {
+      "usd": 813.04,
+      "btc": 0.00855836,
+      "eth": 0.213959
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-19-1EUZV&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-19-1EUZV",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-19-1EUZV"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #19\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616365",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 20,
+    "numero": "#C20",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-20-KI6RH",
+    "nom": "Jed Trader",
+    "username": "@jed_crypto49",
+    "email": "jed.trader@protonmail.com",
+    "exchange_prefere": "Gate.io",
+    "wallets": {
+      "bitcoin": "bc1qf3s6a8p3bxk4pp68y5uj5jlcjvs1qr6wagai830",
+      "ethereum": "0x0f3bde3bfa0d6fabd06c57aa4d9d96ee48b8fae2",
+      "usdt": "0xaa44afa8c70b7ffbaaabbd2e3c72bbe69bae5fab",
+      "bnb": "bnbi5w2z5199af1vzvgfd48ygqabacoukrr8am86q"
+    },
+    "cryptos_acceptees": [
+      "BTC",
+      "MATIC",
+      "USDC",
+      "ETH",
+      "XRP"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 672,
+    "total_conversions": 45,
+    "total_earnings": {
+      "usd": 361.05,
+      "btc": 0.00380057,
+      "eth": 0.095014
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-20-KI6RH&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-20-KI6RH",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-20-KI6RH"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #20\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616389",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 21,
+    "numero": "#C21",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-21-KO7ES",
+    "nom": "Charlie Hodler",
+    "username": "@charlie_crypto834",
+    "email": "charlie.hodler@protonmail.com",
+    "exchange_prefere": "Gate.io",
+    "wallets": {
+      "bitcoin": "bc1qv1n335vohffuf03neysabeuftoprojau052d5dc",
+      "ethereum": "0x06d2ad5e4564b65d97bddebd7af0eabaeed6b0e1",
+      "usdt": "0xd14edbbfab3966479f6c43cbf8dae9ff53ac92ea",
+      "bnb": "bnb477mroi0lsg45cgjlwnpp2fbd1b2kgurieswqe"
+    },
+    "cryptos_acceptees": [
+      "USDT",
+      "BTC",
+      "ADA",
+      "MATIC",
+      "USDC",
+      "SOL",
+      "DOGE"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1357,
+    "total_conversions": 100,
+    "total_earnings": {
+      "usd": 1307.58,
+      "btc": 0.01376401,
+      "eth": 0.3441
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-21-KO7ES&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-21-KO7ES",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-21-KO7ES"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #21\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616423",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 22,
+    "numero": "#C22",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-22-4TWRA",
+    "nom": "CZ Satoshi",
+    "username": "@cz_crypto453",
+    "email": "cz.satoshi@protonmail.com",
+    "exchange_prefere": "Bybit",
+    "wallets": {
+      "bitcoin": "bc1q3angojlemt0f6wkhuqlgye5rnza58yon518wda5",
+      "ethereum": "0xf4d225f07f22a93c0dd5fcba7d0ecaa60ac0dccd",
+      "usdt": "0xbe3e3dd332d8abefd4baacad713a13e1ac06bbbd",
+      "bnb": "bnbbuma80509xvucxtj0wnz4zqogarh9y4dqyfr4r"
+    },
+    "cryptos_acceptees": [
+      "USDT",
+      "ADA",
+      "BNB",
+      "SOL"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1793,
+    "total_conversions": 97,
+    "total_earnings": {
+      "usd": 1341.26,
+      "btc": 0.0141185,
+      "eth": 0.352963
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-22-4TWRA&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-22-4TWRA",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-22-4TWRA"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #22\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616446",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 23,
+    "numero": "#C23",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-23-MJYFU",
+    "nom": "Jesse Investor",
+    "username": "@jesse_crypto884",
+    "email": "jesse.investor@protonmail.com",
+    "exchange_prefere": "Kraken",
+    "wallets": {
+      "bitcoin": "bc1qctqykdnc7bxeg1osj1mc9fp26u808rowlbzmylz",
+      "ethereum": "0x7ebb6dc445c42cded85e0a51eca9bbdbdb7473bd",
+      "usdt": "0xd87d9b15af6b1bc6092aeed5ea1c9adff18deed2",
+      "bnb": "bnbmtxtx09fqsr2r1us2v0m2x7zj5vwhjzpcjljv5"
+    },
+    "cryptos_acceptees": [
+      "SOL",
+      "XRP",
+      "USDC",
+      "ETH"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1572,
+    "total_conversions": 70,
+    "total_earnings": {
+      "usd": 580.06,
+      "btc": 0.0061059,
+      "eth": 0.152648
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-23-MJYFU&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-23-MJYFU",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-23-MJYFU"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #23\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616469",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 24,
+    "numero": "#C24",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-24-8U5CI",
+    "nom": "Erik Bull",
+    "username": "@erik_crypto458",
+    "email": "erik.bull@protonmail.com",
+    "exchange_prefere": "KuCoin",
+    "wallets": {
+      "bitcoin": "bc1qitzwrupydea0w5nkepc4p763eevzxvq4wjx7csj",
+      "ethereum": "0xd81c08a8d11a8cd042e420b7b1ddfbf8da82baac",
+      "usdt": "0xe4da17de3a6eec2ebacb4be9777d734bfb690abd",
+      "bnb": "bnbru8w1tvr0tv9mj85s1ji1ohfdizruatrzs2ezq"
+    },
+    "cryptos_acceptees": [
+      "DOGE",
+      "BTC",
+      "MATIC",
+      "BNB",
+      "SOL",
+      "USDT"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 746,
+    "total_conversions": 33,
+    "total_earnings": {
+      "usd": 473.48,
+      "btc": 0.00498402,
+      "eth": 0.1246
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-24-8U5CI&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-24-8U5CI",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-24-8U5CI"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #24\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616491",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 25,
+    "numero": "#C25",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-25-1P42J",
+    "nom": "SBF Satoshi",
+    "username": "@sbf_crypto464",
+    "email": "sbf.satoshi@protonmail.com",
+    "exchange_prefere": "Coinbase",
+    "wallets": {
+      "bitcoin": "bc1q3qr4mjw8n2llia6sjiqb4mm4shl4ann2aif0vl8",
+      "ethereum": "0xc7a38ec8f047aa1cdc9cafa3abffa7b53bb888f6",
+      "usdt": "0x2ea40936cceadae0b7ed5eda7b4df2cbcadeda7e",
+      "bnb": "bnbapmeuz5g467qwuzve5mokbt9gpf7hvo6vm9mvi"
+    },
+    "cryptos_acceptees": [
+      "XRP",
+      "MATIC",
+      "DOGE",
+      "USDC",
+      "BNB"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1329,
+    "total_conversions": 104,
+    "total_earnings": {
+      "usd": 1357.0,
+      "btc": 0.01428422,
+      "eth": 0.357105
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-25-1P42J&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-25-1P42J",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-25-1P42J"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #25\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616514",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 26,
+    "numero": "#C26",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-26-XM3M1",
+    "nom": "Joseph Investor",
+    "username": "@joseph_crypto846",
+    "email": "joseph.investor@protonmail.com",
+    "exchange_prefere": "KuCoin",
+    "wallets": {
+      "bitcoin": "bc1qcrofq2yu9wivrj7erjnkwt8qb6vrl2s90unj2tl",
+      "ethereum": "0x7f47aaf3ecab2bec845c9e275efb011f2d1ae978",
+      "usdt": "0xd9a2e4ae23357eff03fcf59ebfc597c29fbe3a2c",
+      "bnb": "bnb6xgalegbnpae9ao52rn9eyx5xvh7zcwiqpzux9"
+    },
+    "cryptos_acceptees": [
+      "ADA",
+      "DOGE",
+      "ETH",
+      "BNB"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1009,
+    "total_conversions": 21,
+    "total_earnings": {
+      "usd": 235.67,
+      "btc": 0.00248073,
+      "eth": 0.062018
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-26-XM3M1&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-26-XM3M1",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-26-XM3M1"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #26\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616535",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 27,
+    "numero": "#C27",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-27-YI6AZ",
+    "nom": "Erik Satoshi",
+    "username": "@erik_crypto5",
+    "email": "erik.satoshi@protonmail.com",
+    "exchange_prefere": "OKX",
+    "wallets": {
+      "bitcoin": "bc1qh7il3c3zq9nqqshqxpdd4ntxc9ut2v86lqlki8p",
+      "ethereum": "0xad61d00bd4874af0dbc17d38ffaabdeff755dc0b",
+      "usdt": "0x5f3d05cd140670cf69b00e6baa1fb9aa1dcf1aad",
+      "bnb": "bnbhtrh8jsiwrl3jusqtkvnezp42zuofcfpdt6kh2"
+    },
+    "cryptos_acceptees": [
+      "USDT",
+      "SOL",
+      "DOGE",
+      "BTC",
+      "MATIC",
+      "USDC",
+      "ADA"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1217,
+    "total_conversions": 81,
+    "total_earnings": {
+      "usd": 917.36,
+      "btc": 0.00965644,
+      "eth": 0.241411
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-27-YI6AZ&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-27-YI6AZ",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-27-YI6AZ"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #27\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616558",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 28,
+    "numero": "#C28",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-28-AD99Z",
+    "nom": "Elon Validator",
+    "username": "@elon_crypto532",
+    "email": "elon.validator@protonmail.com",
+    "exchange_prefere": "Bybit",
+    "wallets": {
+      "bitcoin": "bc1qw4lh3l8xehhrn5fqff0tj61vzl5hkbnzdm5gx2w",
+      "ethereum": "0xce9319a2e9d9c6d66ebc3dca1b9acbfc637febac",
+      "usdt": "0x49befe7ab7adf0ac3e5a8fb4774c0cde896d8fb2",
+      "bnb": "bnbrwcwgyjjhah8r9sipu6cg5gawhudr7w25h6jm7"
+    },
+    "cryptos_acceptees": [
+      "MATIC",
+      "USDC",
+      "BTC",
+      "USDT",
+      "DOGE",
+      "SOL"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1388,
+    "total_conversions": 84,
+    "total_earnings": {
+      "usd": 801.72,
+      "btc": 0.00843921,
+      "eth": 0.21098
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-28-AD99Z&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-28-AD99Z",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-28-AD99Z"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #28\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616582",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 29,
+    "numero": "#C29",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-29-EE1FP",
+    "nom": "Wei Trader",
+    "username": "@wei_crypto285",
+    "email": "wei.trader@protonmail.com",
+    "exchange_prefere": "Coinbase",
+    "wallets": {
+      "bitcoin": "bc1qnce5mvxeytoy5lrppxls5bnpgmbal3098p4wknq",
+      "ethereum": "0x91cfbbbf35c2ecee1abddfbeb92c8c64edaa9edc",
+      "usdt": "0x3bfccea37116b9ee8c5eaacea3c1cbbe2297d49c",
+      "bnb": "bnbsxzde044ff0fo1qwgs1r9mnvrjh3ph7gv9t3s0"
+    },
+    "cryptos_acceptees": [
+      "ADA",
+      "DOGE",
+      "SOL",
+      "MATIC",
+      "BNB",
+      "USDC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1514,
+    "total_conversions": 58,
+    "total_earnings": {
+      "usd": 545.77,
+      "btc": 0.00574499,
+      "eth": 0.143625
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-29-EE1FP&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-29-EE1FP",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-29-EE1FP"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #29\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616604",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 30,
+    "numero": "#C30",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-30-J4VPS",
+    "nom": "Anthony Ape",
+    "username": "@anthony_crypto161",
+    "email": "anthony.ape@protonmail.com",
+    "exchange_prefere": "Bybit",
+    "wallets": {
+      "bitcoin": "bc1qq49g0as3tothxy2v9adlxfe3rrz6kq7gnaynnxf",
+      "ethereum": "0xdf0b51efd2150c4b4e85662fc2be7cf85bbbf288",
+      "usdt": "0x31adf5fa9dfcdac5df5fde9c5eac573ebd90856c",
+      "bnb": "bnb0i9moulg3xepzna9urjypiqx0yixbrogeaj5f2"
+    },
+    "cryptos_acceptees": [
+      "ETH",
+      "DOGE",
+      "XRP",
+      "SOL",
+      "MATIC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 305,
+    "total_conversions": 21,
+    "total_earnings": {
+      "usd": 201.43,
+      "btc": 0.0021203,
+      "eth": 0.053007
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-30-J4VPS&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-30-J4VPS",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-30-J4VPS"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #30\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616627",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 31,
+    "numero": "#C31",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-31-KTRIW",
+    "nom": "Brian Ape",
+    "username": "@brian_crypto324",
+    "email": "brian.ape@protonmail.com",
+    "exchange_prefere": "Bybit",
+    "wallets": {
+      "bitcoin": "bc1qkmeyeoz6haka4xf7e78qmy4bsmaq7s9rdfe0468",
+      "ethereum": "0xbd6fcb57dee7de7982cc5fdf9a4ffc7e2bda5cfb",
+      "usdt": "0xbe1abb6326fbaf39ee4e8adbece3f7b9fbedf93b",
+      "bnb": "bnbm81zblpyar50yjusr1pwux5pfu8knvtbsr0yvy"
+    },
+    "cryptos_acceptees": [
+      "USDT",
+      "DOGE",
+      "ADA",
+      "BNB",
+      "BTC",
+      "SOL"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 126,
+    "total_conversions": 4,
+    "total_earnings": {
+      "usd": 22.5,
+      "btc": 0.00023684,
+      "eth": 0.005921
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-31-KTRIW&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-31-KTRIW",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-31-KTRIW"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #31\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616653",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 32,
+    "numero": "#C32",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-32-D8MMF",
+    "nom": "Nakamoto Moon",
+    "username": "@nakamoto_crypto51",
+    "email": "nakamoto.moon@protonmail.com",
+    "exchange_prefere": "Bitget",
+    "wallets": {
+      "bitcoin": "bc1qlsa51q2vv6aa140bsfey5h89tgvgs82xngqvqvv",
+      "ethereum": "0x54e34cfdf0d7949d1dbbe92a295fcca7e59f4ae1",
+      "usdt": "0xbb6fa38046c8dd5bba21aa1dd1c0dfae962fecf0",
+      "bnb": "bnbkcibdpqmiintj3h0b98m8hnajsfglkr368w4wx"
+    },
+    "cryptos_acceptees": [
+      "SOL",
+      "USDT",
+      "USDC",
+      "ETH",
+      "XRP"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1700,
+    "total_conversions": 65,
+    "total_earnings": {
+      "usd": 768.96,
+      "btc": 0.0080943,
+      "eth": 0.202358
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-32-D8MMF&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-32-D8MMF",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-32-D8MMF"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #32\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616675",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 33,
+    "numero": "#C33",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-33-VIFFU",
+    "nom": "Elon Web3",
+    "username": "@elon_crypto982",
+    "email": "elon.web3@protonmail.com",
+    "exchange_prefere": "KuCoin",
+    "wallets": {
+      "bitcoin": "bc1qun64i6b2dajzv0apewrcsjem5s1liicjkl2k1h2",
+      "ethereum": "0x7b0a150fbb5eb53eeeeb0cc160be8c6c8e1a5ebf",
+      "usdt": "0xa5b9de8ffa9fa15be0ffd29abecab7ffe5687b7f",
+      "bnb": "bnb52we8m90g5uz4eaezt850e6e0vlcx402iye4n2"
+    },
+    "cryptos_acceptees": [
+      "BNB",
+      "SOL",
+      "BTC",
+      "ADA",
+      "USDC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1376,
+    "total_conversions": 46,
+    "total_earnings": {
+      "usd": 526.78,
+      "btc": 0.00554509,
+      "eth": 0.138627
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-33-VIFFU&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-33-VIFFU",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-33-VIFFU"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #33\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616703",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 34,
+    "numero": "#C34",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-34-5ICMK",
+    "nom": "SBF Degen",
+    "username": "@sbf_crypto461",
+    "email": "sbf.degen@protonmail.com",
+    "exchange_prefere": "Bybit",
+    "wallets": {
+      "bitcoin": "bc1q07huegbqgru4hp6lq5v1eii0fiqn2vdfkjxlmbw",
+      "ethereum": "0xdb86ff858adc9ec6cf2fda885ad5f5a0b6126d4c",
+      "usdt": "0xf2295b83cf42ba8db2db9cc70dcaf1acca273bd5",
+      "bnb": "bnbbory316g0h52ermmao6c7cm8wmrcazb9n79z4d"
+    },
+    "cryptos_acceptees": [
+      "USDC",
+      "DOGE",
+      "BNB",
+      "ADA",
+      "MATIC",
+      "ETH",
+      "USDT"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 259,
+    "total_conversions": 5,
+    "total_earnings": {
+      "usd": 45.85,
+      "btc": 0.00048267,
+      "eth": 0.012067
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-34-5ICMK&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-34-5ICMK",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-34-5ICMK"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #34\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616725",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 35,
+    "numero": "#C35",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-35-A7DIN",
+    "nom": "Jesse Ape",
+    "username": "@jesse_crypto354",
+    "email": "jesse.ape@protonmail.com",
+    "exchange_prefere": "KuCoin",
+    "wallets": {
+      "bitcoin": "bc1q5ixj11mmsn07inhlpqi94t782tfdbm3q3mpy8bz",
+      "ethereum": "0xaaeef74c9bf7db3ed137de876fe09faef8fe9ba7",
+      "usdt": "0x7bf691caca01a77aee78709dc2a3fba13f5beced",
+      "bnb": "bnbuv9n5h1eafi2k73r5orbna0cxuca1oelu8alp6"
+    },
+    "cryptos_acceptees": [
+      "ETH",
+      "BNB",
+      "DOGE",
+      "USDT",
+      "ADA"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 762,
+    "total_conversions": 22,
+    "total_earnings": {
+      "usd": 222.34,
+      "btc": 0.00234044,
+      "eth": 0.058511
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-35-A7DIN&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-35-A7DIN",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-35-A7DIN"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #35\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616754",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 36,
+    "numero": "#C36",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-36-MNUQ6",
+    "nom": "Jesse DAO",
+    "username": "@jesse_crypto139",
+    "email": "jesse.dao@protonmail.com",
+    "exchange_prefere": "Bybit",
+    "wallets": {
+      "bitcoin": "bc1qpnkfuqroh7mvoxf47kgvsyb4xngcbv5udzb6kd6",
+      "ethereum": "0x9e6ea7ce350b1422a515cc3c824c193afc20fcdc",
+      "usdt": "0x47626e5dd8cbacfe17cbea18e6fda6f0e63bcd4f",
+      "bnb": "bnb6m6zf9qwuyryth36waecw8z7znrxde5v0tx84a"
+    },
+    "cryptos_acceptees": [
+      "BNB",
+      "MATIC",
+      "ETH",
+      "SOL",
+      "USDT",
+      "BTC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1581,
+    "total_conversions": 103,
+    "total_earnings": {
+      "usd": 620.39,
+      "btc": 0.00653047,
+      "eth": 0.163262
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-36-MNUQ6&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-36-MNUQ6",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-36-MNUQ6"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #36\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616778",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 37,
+    "numero": "#C37",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-37-IKOJC",
+    "nom": "Wei Degen",
+    "username": "@wei_crypto393",
+    "email": "wei.degen@protonmail.com",
+    "exchange_prefere": "Crypto.com",
+    "wallets": {
+      "bitcoin": "bc1q7l54q7l51apgrsvykft5lsjozx72f40f6v4me2s",
+      "ethereum": "0xd81c0cb000d9fb461ee68f0cc49f391f88aa2c3d",
+      "usdt": "0x6abbaa0ff0ae9cbe29306ce03075c0d6dd2eb3b0",
+      "bnb": "bnbz4fh1gp9r7m4yrevcsikarj6q2no3ibl5uf0d8"
+    },
+    "cryptos_acceptees": [
+      "BNB",
+      "MATIC",
+      "ETH",
+      "DOGE",
+      "ADA"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 259,
+    "total_conversions": 12,
+    "total_earnings": {
+      "usd": 132.03,
+      "btc": 0.00138975,
+      "eth": 0.034744
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-37-IKOJC&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-37-IKOJC",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-37-IKOJC"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #37\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616800",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 38,
+    "numero": "#C38",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-38-JXJP7",
+    "nom": "Alex Miner",
+    "username": "@alex_crypto71",
+    "email": "alex.miner@protonmail.com",
+    "exchange_prefere": "OKX",
+    "wallets": {
+      "bitcoin": "bc1q2qhsyc30wkld8c94pevblc90ib33vt3t702cddw",
+      "ethereum": "0x3137c06ebded7c3cd4dafb8e2bac42fc78bc0daf",
+      "usdt": "0xd9cbf619daa5dc1b7b8b01d1f66f6362deaedc71",
+      "bnb": "bnbee7xmbcvneznrijei6h6r6q5o95ffsfxq25x2c"
+    },
+    "cryptos_acceptees": [
+      "XRP",
+      "DOGE",
+      "ETH",
+      "USDT",
+      "SOL",
+      "USDC",
+      "BTC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1324,
+    "total_conversions": 43,
+    "total_earnings": {
+      "usd": 619.03,
+      "btc": 0.00651611,
+      "eth": 0.162903
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-38-JXJP7&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-38-JXJP7",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-38-JXJP7"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #38\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616830",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 39,
+    "numero": "#C39",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-39-NE7A1",
+    "nom": "Brian Web3",
+    "username": "@brian_crypto550",
+    "email": "brian.web3@protonmail.com",
+    "exchange_prefere": "OKX",
+    "wallets": {
+      "bitcoin": "bc1qaslhi1d8in0bud7rxt2nbq6jd6tbxtlx2gemjmg",
+      "ethereum": "0xdfc5bb32db94dbfce6827852aaef84bcabe8c65f",
+      "usdt": "0x79facfaa1d2bd7cfc79abaedcb83dbae706e9656",
+      "bnb": "bnbn5ehixvn8wmuxlohd65i6df437znx6912ad9e1"
+    },
+    "cryptos_acceptees": [
+      "DOGE",
+      "USDT",
+      "SOL",
+      "BNB",
+      "ADA",
+      "ETH",
+      "BTC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 102,
+    "total_conversions": 3,
+    "total_earnings": {
+      "usd": 29.2,
+      "btc": 0.0003074,
+      "eth": 0.007685
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-39-NE7A1&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-39-NE7A1",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-39-NE7A1"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #39\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616853",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 40,
+    "numero": "#C40",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-40-PE2VE",
+    "nom": "Charlie Blockchain",
+    "username": "@charlie_crypto952",
+    "email": "charlie.blockchain@protonmail.com",
+    "exchange_prefere": "Kraken",
+    "wallets": {
+      "bitcoin": "bc1qqea47ldsyf5mncmhewb28zh5v326x7qavm1p4uu",
+      "ethereum": "0x28e6ac3ff49fdacecbc749d69cdebb1cf9ef18ac",
+      "usdt": "0xc8dabe6e23ce00ebfa783bbfcefe1c460c4a33d1",
+      "bnb": "bnb078z2n2rgojxwhnbo1lze0dc9folemidaqv6pp"
+    },
+    "cryptos_acceptees": [
+      "ETH",
+      "DOGE",
+      "XRP",
+      "SOL"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1301,
+    "total_conversions": 89,
+    "total_earnings": {
+      "usd": 505.68,
+      "btc": 0.00532293,
+      "eth": 0.133073
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-40-PE2VE&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-40-PE2VE",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-40-PE2VE"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #40\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616877",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 41,
+    "numero": "#C41",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-41-23XDK",
+    "nom": "Roger Moon",
+    "username": "@roger_crypto545",
+    "email": "roger.moon@protonmail.com",
+    "exchange_prefere": "Coinbase",
+    "wallets": {
+      "bitcoin": "bc1qvuvk9jqxchxycl3sr4uq6o8535axnqb1nz8tzsl",
+      "ethereum": "0xbdbad7d63edf42e29af1ace42ff622d98a8ffd26",
+      "usdt": "0x8ad987ea130bc6beeb8c3b1cea97d0caf9c5ffac",
+      "bnb": "bnbocgne98molmfdxm59zjztsoqlilr02bjfo001y"
+    },
+    "cryptos_acceptees": [
+      "DOGE",
+      "BNB",
+      "USDT",
+      "XRP",
+      "ADA",
+      "SOL",
+      "BTC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1471,
+    "total_conversions": 32,
+    "total_earnings": {
+      "usd": 260.48,
+      "btc": 0.00274195,
+      "eth": 0.068549
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-41-23XDK&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-41-23XDK",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-41-23XDK"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #41\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616906",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 42,
+    "numero": "#C42",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-42-W39M1",
+    "nom": "Jed Web3",
+    "username": "@jed_crypto261",
+    "email": "jed.web3@protonmail.com",
+    "exchange_prefere": "KuCoin",
+    "wallets": {
+      "bitcoin": "bc1q1ft9ps2a2la0ol9otg40ct5cngb3ql1b0oyqg0d",
+      "ethereum": "0xeef35b2e1de2f4a86eae2b68cb5c9844c78a50c1",
+      "usdt": "0xb3b5d78cb5ca6b85a8dcae4cb06dccca4a996aee",
+      "bnb": "bnbvgjjkh7x5dkbd9tg8n4v3r0oro57f6mzil6suv"
+    },
+    "cryptos_acceptees": [
+      "BNB",
+      "BTC",
+      "SOL",
+      "XRP",
+      "DOGE",
+      "ETH"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1883,
+    "total_conversions": 93,
+    "total_earnings": {
+      "usd": 1200.43,
+      "btc": 0.01263611,
+      "eth": 0.315903
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-42-W39M1&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-42-W39M1",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-42-W39M1"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #42\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616929",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 43,
+    "numero": "#C43",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-43-DZTEL",
+    "nom": "Nakamoto Moon",
+    "username": "@nakamoto_crypto570",
+    "email": "nakamoto.moon@protonmail.com",
+    "exchange_prefere": "Bybit",
+    "wallets": {
+      "bitcoin": "bc1qhpx0i5h2n952e6emzdbq2mftlmexf4y5zuslgaw",
+      "ethereum": "0xcc0351bbb9e9ab7aebb4a439284bf7dffebfdbfc",
+      "usdt": "0x0efc44ae3932df3f65bb9312de5a4f1e5ceb83bb",
+      "bnb": "bnbmkd8lnp2spr8bpl21dkfguoys26n4aefg54r4i"
+    },
+    "cryptos_acceptees": [
+      "BTC",
+      "SOL",
+      "BNB",
+      "DOGE",
+      "ADA"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 487,
+    "total_conversions": 13,
+    "total_earnings": {
+      "usd": 177.3,
+      "btc": 0.0018663,
+      "eth": 0.046657
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-43-DZTEL&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-43-DZTEL",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-43-DZTEL"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #43\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616951",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 44,
+    "numero": "#C44",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-44-9JAMS",
+    "nom": "Dan Diamond",
+    "username": "@dan_crypto73",
+    "email": "dan.diamond@protonmail.com",
+    "exchange_prefere": "Bybit",
+    "wallets": {
+      "bitcoin": "bc1qmye1kfasrxq0nxmvjtsbkgycuk3df25xozdi8at",
+      "ethereum": "0x590388a46eb5074c93865edc001b06de31b8a0c6",
+      "usdt": "0x899cf6f3d6d82e85690cacbe8435defcf2f1e2c1",
+      "bnb": "bnbiwpbgb1byb8uka7rwxy2wjrlc4gix7vk3929hq"
+    },
+    "cryptos_acceptees": [
+      "MATIC",
+      "SOL",
+      "DOGE",
+      "ADA",
+      "USDC",
+      "USDT",
+      "BNB"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1310,
+    "total_conversions": 64,
+    "total_earnings": {
+      "usd": 770.7,
+      "btc": 0.0081126,
+      "eth": 0.202815
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-44-9JAMS&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-44-9JAMS",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-44-9JAMS"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #44\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616975",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 45,
+    "numero": "#C45",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-45-9QLHF",
+    "nom": "Vitalik Diamond",
+    "username": "@vitalik_crypto80",
+    "email": "vitalik.diamond@protonmail.com",
+    "exchange_prefere": "MEXC",
+    "wallets": {
+      "bitcoin": "bc1q8nwc66n7gwx355em5ci5ef9octf9eppj2w3m3zl",
+      "ethereum": "0x7fd66a7be789b011de7a7d1dfa9b8ea78e188872",
+      "usdt": "0x23990f4edcb4e505f1f43699b2d4eabda485c254",
+      "bnb": "bnby5ilk7bkgb4rals0guif9ma3f2li69d8a163mk"
+    },
+    "cryptos_acceptees": [
+      "DOGE",
+      "USDC",
+      "ADA",
+      "BTC",
+      "MATIC",
+      "XRP"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 207,
+    "total_conversions": 12,
+    "total_earnings": {
+      "usd": 163.17,
+      "btc": 0.00171754,
+      "eth": 0.042938
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-45-9QLHF&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-45-9QLHF",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-45-9QLHF"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #45\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.616997",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 46,
+    "numero": "#C46",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-46-WW74S",
+    "nom": "Arthur Hodler",
+    "username": "@arthur_crypto40",
+    "email": "arthur.hodler@protonmail.com",
+    "exchange_prefere": "Coinbase",
+    "wallets": {
+      "bitcoin": "bc1q9o6lhk0ron2n21906utscq1wp1fhalljgy3qsgw",
+      "ethereum": "0xf500ccb363e8090eea52a197c05c1be72ff630e4",
+      "usdt": "0xd826d63c9e8a3e7deaa00bdf6246f754eddd7dcb",
+      "bnb": "bnb2tm4cgrf7qy73ouqrahev2i43qy8qfmsjzpil6"
+    },
+    "cryptos_acceptees": [
+      "USDT",
+      "USDC",
+      "MATIC",
+      "DOGE"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1717,
+    "total_conversions": 127,
+    "total_earnings": {
+      "usd": 1212.36,
+      "btc": 0.01276172,
+      "eth": 0.319043
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-46-WW74S&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-46-WW74S",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-46-WW74S"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #46\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.617020",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 47,
+    "numero": "#C47",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-47-ZLIAX",
+    "nom": "Tim Investor",
+    "username": "@tim_crypto822",
+    "email": "tim.investor@protonmail.com",
+    "exchange_prefere": "Binance",
+    "wallets": {
+      "bitcoin": "bc1qk3dchi0zv562cngoyqwsrol4sxg0t7zmguistgc",
+      "ethereum": "0x5c541bdbc1b95f5e7dcb20d4cdca57e0918f3cfe",
+      "usdt": "0xd6337d72dfc53a4d3ebd13761bb4c94db15764dd",
+      "bnb": "bnb3movm7va1uw9wcuijlpg7w05gp9kaxgtrhib5c"
+    },
+    "cryptos_acceptees": [
+      "ADA",
+      "DOGE",
+      "MATIC",
+      "USDC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 664,
+    "total_conversions": 21,
+    "total_earnings": {
+      "usd": 196.96,
+      "btc": 0.00207325,
+      "eth": 0.051831
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-47-ZLIAX&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-47-ZLIAX",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-47-ZLIAX"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #47\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.617042",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 48,
+    "numero": "#C48",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-48-320V0",
+    "nom": "Jesse Hodler",
+    "username": "@jesse_crypto306",
+    "email": "jesse.hodler@protonmail.com",
+    "exchange_prefere": "MEXC",
+    "wallets": {
+      "bitcoin": "bc1q5emsp2qzcuiej911wpmjonep9v5a2r9l6arwfi9",
+      "ethereum": "0x84e74a1abf6bd1ffdec8b8ac7aa1a9aed89fb5ed",
+      "usdt": "0xcb50c423106ee09db228fc33c23b2a066f2efeba",
+      "bnb": "bnb69pga666n0th18gxskis9mgtfsxqn0vpiu1g21"
+    },
+    "cryptos_acceptees": [
+      "MATIC",
+      "ADA",
+      "ETH",
+      "BTC",
+      "BNB",
+      "DOGE",
+      "XRP"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1953,
+    "total_conversions": 146,
+    "total_earnings": {
+      "usd": 1952.05,
+      "btc": 0.02054787,
+      "eth": 0.513697
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-48-320V0&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-48-320V0",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-48-320V0"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #48\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.617066",
+    "niveau": "Diamond 💎",
+    "verification": {
+      "kyc": false,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 49,
+    "numero": "#C49",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-49-FVX9F",
+    "nom": "Joseph Degen",
+    "username": "@joseph_crypto431",
+    "email": "joseph.degen@protonmail.com",
+    "exchange_prefere": "Coinbase",
+    "wallets": {
+      "bitcoin": "bc1q5zv4z5pqmgkz1y9coid7iy3pdzakzmz44r2a0lf",
+      "ethereum": "0x47492b278ddbef2060ff1fc86a0fcdddfe1a8c27",
+      "usdt": "0xdedbafcfbadcb2adbd7f5ee0a9a9249abface102",
+      "bnb": "bnbisrpj0qjktv8mqg2nnunh1dc7tz0sicp6rkro2"
+    },
+    "cryptos_acceptees": [
+      "USDT",
+      "SOL",
+      "ETH",
+      "BTC",
+      "BNB",
+      "MATIC"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 837,
+    "total_conversions": 22,
+    "total_earnings": {
+      "usd": 197.23,
+      "btc": 0.00207611,
+      "eth": 0.051903
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-49-FVX9F&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-49-FVX9F",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-49-FVX9F"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #49\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.617088",
+    "niveau": "Silver 🥈",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  },
+  {
+    "id": 50,
+    "numero": "#C50",
+    "type": "crypto_affiliate",
+    "code": "CRYPTO-50-8L5HT",
+    "nom": "Elon Trader",
+    "username": "@elon_crypto378",
+    "email": "elon.trader@protonmail.com",
+    "exchange_prefere": "Gate.io",
+    "wallets": {
+      "bitcoin": "bc1q0m0orgh8sym5clre0xt7menh80uvarsla0v87l9",
+      "ethereum": "0xa3bec3ad3df2892daa76d1eeac2d5bb0eb0631ad",
+      "usdt": "0x2f49bacaffe2516d799200b2bd87edf53ed5df16",
+      "bnb": "bnb624p30o3hc3r5xlo0ejdgug939sb5km32f1i1q"
+    },
+    "cryptos_acceptees": [
+      "SOL",
+      "MATIC",
+      "BTC",
+      "DOGE"
+    ],
+    "commission_rate": 25.0,
+    "total_clicks": 1078,
+    "total_conversions": 32,
+    "total_earnings": {
+      "usd": 398.82,
+      "btc": 0.00419814,
+      "eth": 0.104954
+    },
+    "status": "active",
+    "liens": {
+      "store": "https://rapid-sales-system.preview.emergentagent.com/store?ref=CRYPTO-50-8L5HT&payment=crypto",
+      "crypto_checkout": "https://rapid-sales-system.preview.emergentagent.com/crypto-checkout?ref=CRYPTO-50-8L5HT",
+      "dashboard": "https://rapid-sales-system.preview.emergentagent.com/crypto-affiliate/CRYPTO-50-8L5HT"
+    },
+    "bio_crypto": "💎 Crypto Affiliate #50\n₿ Accepte BTC, ETH, USDT\n🚀 25% commission\n👇 Shop with crypto",
+    "created_at": "2026-03-27T17:42:55.617111",
+    "niveau": "Gold 🥇",
+    "verification": {
+      "kyc": true,
+      "wallet_verified": true,
+      "email_verified": true
+    }
+  }
+]

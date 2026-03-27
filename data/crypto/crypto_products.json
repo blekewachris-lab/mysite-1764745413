@@ -1,0 +1,38 @@
+[
+  {
+    "id": "crypto-001",
+    "name": "Ledger Nano X (Réplique)",
+    "description": "Hardware wallet pour sécuriser vos cryptos",
+    "prix_crypto": {
+      "btc": 0.0004,
+      "eth": 0.012,
+      "usdt": 35,
+      "usd": 35
+    },
+    "commission_crypto": 25.0
+  },
+  {
+    "id": "crypto-002",
+    "name": "Crypto Mining USB Stick",
+    "description": "Mini mineur USB pour débuter",
+    "prix_crypto": {
+      "btc": 0.0005,
+      "eth": 0.015,
+      "usdt": 45,
+      "usd": 45
+    },
+    "commission_crypto": 25.0
+  },
+  {
+    "id": "crypto-003",
+    "name": "Bitcoin Hodler T-Shirt",
+    "description": "T-shirt premium pour crypto enthusiasts",
+    "prix_crypto": {
+      "btc": 0.0003,
+      "eth": 0.008,
+      "usdt": 25,
+      "usd": 25
+    },
+    "commission_crypto": 25.0
+  }
+]
