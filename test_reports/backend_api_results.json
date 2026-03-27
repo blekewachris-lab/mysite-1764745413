@@ -1,0 +1,258 @@
+{
+  "timestamp": "2026-03-27T11:30:45.015693",
+  "summary": {
+    "tests_run": 9,
+    "tests_passed": 9,
+    "success_rate": 100.0
+  },
+  "detailed_results": [
+    {
+      "test_name": "Root API",
+      "endpoint": "",
+      "method": "GET",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 39,
+      "response_data": {
+        "message": "E-commerce Automation API"
+      }
+    },
+    {
+      "test_name": "Get Products",
+      "endpoint": "products",
+      "method": "GET",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 2,
+      "response_data": []
+    },
+    {
+      "test_name": "Create Product",
+      "endpoint": "products",
+      "method": "POST",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 306,
+      "response_data": {
+        "id": "4c95a74d-7766-49c8-b5e9-2844d14ad285",
+        "name": "Test Product API",
+        "prix_achat": 10.0,
+        "prix_vente": 25.0,
+        "image_url": "https://via.placeholder.com/300",
+        "description": "Test product for API testing",
+        "cible": "Test audience",
+        "angle_marketing": "Test marketing angle",
+        "created_at": "2026-03-27T11:30:44.441985Z"
+      }
+    },
+    {
+      "test_name": "Delete Product",
+      "endpoint": "products/4c95a74d-7766-49c8-b5e9-2844d14ad285",
+      "method": "DELETE",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 30,
+      "response_data": {
+        "message": "Produit supprim\u00e9"
+      }
+    },
+    {
+      "test_name": "Get Today Analytics",
+      "endpoint": "analytics/today",
+      "method": "GET",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 160,
+      "response_data": {
+        "id": "fe68ace8-4f58-4ec6-86fb-1d8ea6cd2307",
+        "date": "2026-03-27",
+        "ca_journalier": 0.0,
+        "nb_ventes": 0,
+        "objectif": 1000.0,
+        "updated_at": "2026-03-27T11:30:44.459459Z"
+      }
+    },
+    {
+      "test_name": "Get Analytics History",
+      "endpoint": "analytics/history",
+      "method": "GET",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 167,
+      "response_data": [
+        {
+          "id": "fe68ace8-4f58-4ec6-86fb-1d8ea6cd2307",
+          "date": "2026-03-27",
+          "ca_journalier": 0.0,
+          "nb_ventes": 0,
+          "objectif": 1000.0,
+          "updated_at": "2026-03-27T11:30:44.459459+00:00"
+        }
+      ]
+    },
+    {
+      "test_name": "Get Strategy",
+      "endpoint": "strategy",
+      "method": "GET",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 1227,
+      "response_data": {
+        "multi_comptes": {
+          "titre": "Strat\u00e9gie Multi-Comptes",
+          "description": "Comment poster 20 \u00e0 50 vid\u00e9os par jour sans blocage",
+          "points": [
+            "Cr\u00e9er 5-10 comptes TikTok/Instagram",
+            "Utiliser des proxies diff\u00e9rents pour chaque compte",
+            "Poster 2-5 vid\u00e9os par compte par jour",
+            "Varier les heures de publication",
+            "Recycler le contenu viral avec des variations"
+          ]
+        },
+        "trafic_gratuit": {
+          "titre": "Trafic Gratuit Massif",
+          "hashtags": [
+            "#tiktokmademebuyit",
+            "#amazonfinds",
+            "#musthave",
+            "#viral",
+            "#foryou"
+          ],
+          "tactiques": [
+            "Hook ultra fort dans les 2 premi\u00e8res secondes",
+            "Vid\u00e9os courtes (15-30 secondes max)",
+            "CTA clair dans chaque vid\u00e9o",
+            "Poster aux heures de pointe (12h, 18h, 21h)",
+            "Analyser et dupliquer ce qui fonctionne"
+          ]
+        },
+        "scale": {
+          "titre": "Plan de Scale 100\u20ac \u2192 1000\u20ac/jour",
+          "etapes": [
+            "0-100\u20ac/jour: Trafic 100% organique, teste les produits",
+            "100-300\u20ac/jour: Identifie les produits gagnants, augmente la cadence de posts",
+            "300-500\u20ac/jour: Lance publicit\u00e9s avec budget 50\u20ac/jour sur meilleurs produits",
+            "500-1000\u20ac/jour: Scale publicit\u00e9s \u00e0 200\u20ac/jour, optimise tunnel de vente",
+            "1000\u20ac+/jour: Automatise maximum, recrute VA pour gestion contenu"
+          ],
+          "budget_pub": {
+            "phase1": "0\u20ac (organique uniquement)",
+            "phase2": "50\u20ac/jour",
+            "phase3": "200\u20ac/jour",
+            "phase4": "500\u20ac+/jour"
+          }
+        }
+      }
+    },
+    {
+      "test_name": "Get Action Plan",
+      "endpoint": "action-plan",
+      "method": "GET",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 1510,
+      "response_data": {
+        "plan_7_jours": [
+          {
+            "jour": 1,
+            "titre": "Setup & Fondations",
+            "actions": [
+              "S\u00e9lectionner 5 produits gagnants",
+              "Cr\u00e9er 5 comptes TikTok/Instagram",
+              "G\u00e9n\u00e9rer 20 scripts TikTok par produit",
+              "Setup tunnel de vente Systeme.io"
+            ],
+            "objectif": "Premi\u00e8re vente"
+          },
+          {
+            "jour": 2,
+            "titre": "Production Contenu",
+            "actions": [
+              "Filmer/sourcer 30 vid\u00e9os (6 par produit)",
+              "\u00c9diter avec hooks viraux",
+              "Planifier posts pour 3 jours",
+              "Tester 3 produits prioritaires"
+            ],
+            "objectif": "5-10 ventes"
+          },
+          {
+            "jour": 3,
+            "titre": "Optimisation",
+            "actions": [
+              "Analyser m\u00e9triques (vues, engagement, conversions)",
+              "Identifier top 2 produits gagnants",
+              "G\u00e9n\u00e9rer 20 nouveaux scripts pour top produits",
+              "Augmenter cadence: 20 posts/jour"
+            ],
+            "objectif": "50\u20ac CA"
+          },
+          {
+            "jour": 4,
+            "titre": "Scale Organique",
+            "actions": [
+              "Poster 30-40 vid\u00e9os sur top produits",
+              "R\u00e9pondre DMs avec scripts closing",
+              "Recycler contenu viral avec variations",
+              "Optimiser pages de vente"
+            ],
+            "objectif": "100\u20ac CA"
+          },
+          {
+            "jour": 5,
+            "titre": "Introduction Publicit\u00e9s",
+            "actions": [
+              "Lancer 3 campagnes pub (50\u20ac total)",
+              "Tester audiences diff\u00e9rentes",
+              "Continuer trafic organique massif",
+              "Tracker ROI par source"
+            ],
+            "objectif": "200\u20ac CA"
+          },
+          {
+            "jour": 6,
+            "titre": "Optimisation Publicit\u00e9s",
+            "actions": [
+              "Couper pubs non rentables",
+              "Scale pubs gagnantes \u00e0 100\u20ac/jour",
+              "Cr\u00e9er 10 nouvelles cr\u00e9atives",
+              "Automatiser r\u00e9ponses clients"
+            ],
+            "objectif": "400\u20ac CA"
+          },
+          {
+            "jour": 7,
+            "titre": "Scale Agressif",
+            "actions": [
+              "Budget pub \u00e0 200\u20ac/jour",
+              "50+ posts organiques/jour",
+              "Recruter VA pour gestion contenu",
+              "Optimiser tunnel pour upsells"
+            ],
+            "objectif": "700-1000\u20ac CA"
+          }
+        ]
+      }
+    },
+    {
+      "test_name": "Create Checkout Session",
+      "endpoint": "checkout/session",
+      "method": "POST",
+      "expected_status": 200,
+      "actual_status": 200,
+      "success": true,
+      "response_size": 527,
+      "response_data": {
+        "url": "https://checkout.stripe.com/c/pay/cs_test_a1chcBpOzS4NZkZgmzL2tfaRH25dAF4C7hlhnD0NfCr5A5H6HjRPxxBGZW#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdkdWxOYHwnPyd1blpxYHZxWjA0V2xNTTNGQU9iY0w8d1VifVUyPXZSaEc8YUpOUTFgdzdEZkNyPTNOZFJSaWNpQ19HfWJwTXJWUDxsY1BJYTNqUW01NW1XYV83VmNjMGgyPE1zPEh0N3QxNTV%2FR0BiYnd2UicpJ2N3amhWYHdzYHcnP3F3cGApJ2dkZm5id2pwa2FGamlqdyc%2FJyZjY2NjY2MnKSdpZHxqcHFRfHVgJz8ndmxrYmlgWmxxYGgnKSdga2RnaWBVaWRmYG1qaWFgd3YnP3F3cGB4JSUl",
+        "session_id": "cs_test_a1chcBpOzS4NZkZgmzL2tfaRH25dAF4C7hlhnD0NfCr5A5H6HjRPxxBGZW"
+      }
+    }
+  ]
+}
