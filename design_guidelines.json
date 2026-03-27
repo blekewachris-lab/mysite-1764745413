@@ -1,0 +1,113 @@
+{
+  "theme": "dark",
+  "archetype": "Performance Pro (Archetype 2)",
+  "design_philosophy": "A tactical, command-center dashboard for aggressive e-commerce scaling to 1000€/day. High-contrast, elite focus, heavy-weight athletic typography for numbers, sharp edges.",
+  "colors": {
+    "background": {
+      "primary": "#0A0A0A",
+      "secondary": "#111111",
+      "tertiary": "#1A1A1A"
+    },
+    "text": {
+      "primary": "#FFFFFF",
+      "secondary": "#A1A1AA",
+      "muted": "#71717A"
+    },
+    "brand": {
+      "primary": "#007AFF",
+      "primary_hover": "#0056B3",
+      "accent": "#FF3B30",
+      "success": "#34C759",
+      "warning": "#FF9500"
+    },
+    "border": {
+      "default": "#27272A",
+      "focus": "#007AFF"
+    }
+  },
+  "typography": {
+    "heading_font": "Barlow Condensed, sans-serif",
+    "body_font": "Inter, sans-serif",
+    "rules": {
+      "h1": "text-4xl sm:text-5xl font-black tracking-tighter uppercase",
+      "h2": "text-2xl sm:text-3xl font-bold tracking-tight uppercase",
+      "h3": "text-xl sm:text-2xl font-bold tracking-tight",
+      "body": "text-base font-normal leading-relaxed",
+      "label": "text-xs font-semibold tracking-[0.2em] uppercase text-muted"
+    }
+  },
+  "spacing_and_layout": {
+    "strategy": "The 'Control Room' Grid (Density, Data Correlation, Scanability)",
+    "container_padding": "p-6 md:p-8",
+    "grid_gap": "gap-4 md:gap-6",
+    "border_radius": "rounded-none or rounded-sm (max 4px for tactical feel)",
+    "alignment": "Left-aligned data, centered values in metric cards. Every pixel utilized.",
+    "bento_grid": "Base Grid: grid-cols-1 md:grid-cols-3 lg:grid-cols-4. Summary: col-span-1. Primary Data: col-span-2 row-span-2. Feed/List: col-span-1 row-span-2."
+  },
+  "surfaces_and_micro_themes": {
+    "dashboard_cards": "Flat solid background (#111111), 1px solid border (border-[#27272A]), 2px Inner Glow highlights (box-shadow: inset 0 1px 0 rgba(255,255,255,0.05)). NO soft shadows.",
+    "interactive_elements": "The 'Tracing Beam' or tactical neon 1px strokes. High-saturation accent blocks for progress bars.",
+    "hover_states": "Hover: bg-[#1A1A1A] text-white. Sharp, instantaneous changes, no mushy transitions.",
+    "glassmorphism": "Not used for primary panels; only for sticky header if overlapping. Use backdrop-blur-xl bg-black/80 with border-b border-[#27272A]."
+  },
+  "components": {
+    "strategy": "Shadcn/UI heavily customized for tactical dark mode.",
+    "buttons": "Square or rounded-sm. Solid brand color or outline with 1px border. font-bold, tracking-wide uppercase.",
+    "charts": "Recharts via Shadcn with neon accent strokes on dark backgrounds. No grid lines, or extremely subtle grid lines (opacity 5%).",
+    "inputs": "bg-[#0A0A0A] border-[#27272A] text-white focus:ring-1 focus:ring-[#007AFF]. Square corners.",
+    "tables": "Dense, crisp borders, distinct hover rows. text-sm.",
+    "tabs": "Underline or solid block active state, high contrast."
+  },
+  "media_and_assets": {
+    "icons": {
+      "library": "@phosphor-icons/react",
+      "style": "Bold or Duotone, geometric, high clarity"
+    },
+    "image_urls": [
+      {
+        "category": "dashboard_background",
+        "description": "Abstract neon dark grid for the main overview hero section",
+        "url": "https://static.prod-images.emergentagent.com/jobs/32ac64ef-a991-41bf-a954-e2a64605829a/images/5d3290d91c8a0b0fdcedab6e325ba63f907fedc5ad5eb8b42d625ef5ece10a34.png"
+      },
+      {
+        "category": "product_1",
+        "description": "Galaxy Projector Light",
+        "url": "https://images.unsplash.com/photo-1595565302791-ec72c034cf5c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxODl8MHwxfHNlYXJjaHwxfHxnYWxheHklMjBwcm9qZWN0b3IlMjBsaWdodHxlbnwwfHx8fDE3NzQ2MDk4MTR8MA&ixlib=rb-4.1.0&q=85"
+      },
+      {
+        "category": "product_2",
+        "description": "Wireless Earbuds",
+        "url": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NTN8MHwxfHNlYXJjaHwxfHx3aXJlbGVzcyUyMGVhcmJ1ZHN8ZW58MHx8fHwxNzc0NjA5ODE1fDA&ixlib=rb-4.1.0&q=85"
+      },
+      {
+        "category": "product_3",
+        "description": "Portable Blender",
+        "url": "https://images.pexels.com/photos/5514988/pexels-photo-5514988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "category": "product_4",
+        "description": "Smart Fitness Watch",
+        "url": "https://images.pexels.com/photos/4482932/pexels-photo-4482932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "category": "product_5",
+        "description": "Resistance Band",
+        "url": "https://images.pexels.com/photos/6667512/pexels-photo-6667512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ]
+  },
+  "motion_and_interactions": {
+    "strategy": "Minimalist, micro-interactions only.",
+    "hover": "Instantaneous color shifts, 1px border highlights.",
+    "click": "Slight scale down (scale-95) for buttons.",
+    "page_transitions": "Fade in, fast (200ms).",
+    "accessibility": "Respect prefers-reduced-motion."
+  },
+  "instructions_to_main_agent": [
+    "Install @phosphor-icons/react for icons.",
+    "Implement the Barlow Condensed font for headings (via Google Fonts) and Inter for body.",
+    "Create a strict dashboard layout (The 'Control Room' Grid) for the main overview (1000€/day goal, metrics).",
+    "Use the product images in the 'Winning Products' catalogue section.",
+    "Ensure all interactive elements have a data-testid attribute in kebab-case."
+  ]
+}
