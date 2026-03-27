@@ -50,6 +50,30 @@ const DMScripts = () => {
     setTimeout(() => setCopiedId(null), 2000);
   };
 
+  const exportScripts = async () => {
+    if (scripts.length === 0) {
+      toast.error("Aucun script à exporter");
+      return;
+    }
+
+    try {
+      const res = await axios.get(`${API}/export/dm-scripts?format=txt`);
+      const blob = new Blob([res.data.content], { type: 'text/plain' });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = res.data.filename;
+      document.body.appendChild(a);
+      a.click();
+      window.URL.revokeObjectURL(url);
+      document.body.removeChild(a);
+      toast.success("Messages exportés !");
+    } catch (error) {
+      console.error("Erreur export:", error);
+      toast.error("Erreur d'export");
+    }
+  };
+
   return (
     <div className="flex" data-testid="dm-scripts-page">
       <Sidebar />
@@ -62,16 +86,29 @@ const DMScripts = () => {
         </div>
 
         <div className="metric-card p-6 mb-6">
-          <Button
-            onClick={generateScripts}
-            disabled={generating}
-            className="bg-[#007AFF] hover:bg-[#0056B3] text-white font-bold uppercase tracking-wide"
-            style={{borderRadius: '2px'}}
-            data-testid="generate-dm-scripts-btn"
-          >
-            <Sparkle size={20} weight="bold" className="mr-2" />
-            {generating ? "Génération..." : "Générer 5 messages"}
-          </Button>
+          <div className="flex items-center gap-4">
+            <Button
+              onClick={generateScripts}
+              disabled={generating}
+              className="bg-[#007AFF] hover:bg-[#0056B3] text-white font-bold uppercase tracking-wide"
+              style={{borderRadius: '2px'}}
+              data-testid="generate-dm-scripts-btn"
+            >
+              <Sparkle size={20} weight="bold" className="mr-2" />
+              {generating ? "Génération..." : "Générer 5 messages"}
+            </Button>
+            {scripts.length > 0 && (
+              <Button
+                onClick={exportScripts}
+                className="bg-[#34C759] hover:bg-[#2ea34a] text-white font-bold uppercase tracking-wide"
+                style={{borderRadius: '2px'}}
+                data-testid="export-dm-scripts-btn"
+              >
+                <Copy size={20} weight="bold" className="mr-2" />
+                Exporter TXT
+              </Button>
+            )}
+          </div>
         </div>
 
         {loading ? (

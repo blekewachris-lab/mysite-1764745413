@@ -16,6 +16,8 @@ const Sidebar = () => {
   const navItems = [
     { path: "/", icon: ChartLineUp, label: "Dashboard" },
     { path: "/products", icon: Package, label: "Produits" },
+    { path: "/orders", icon: Package, label: "Commandes" },
+    { path: "/customers", icon: ChatDots, label: "Clients" },
     { path: "/tiktok-scripts", icon: VideoCamera, label: "Scripts TikTok" },
     { path: "/dm-scripts", icon: ChatDots, label: "Messages DM" },
     { path: "/sales-pages", icon: FileText, label: "Pages de Vente" },

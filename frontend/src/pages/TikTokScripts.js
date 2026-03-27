@@ -80,6 +80,30 @@ const TikTokScripts = () => {
     setTimeout(() => setCopiedId(null), 2000);
   };
 
+  const exportScripts = async () => {
+    if (!selectedProduct || scripts.length === 0) {
+      toast.error("Aucun script à exporter");
+      return;
+    }
+
+    try {
+      const res = await axios.get(`${API}/export/tiktok-scripts/${selectedProduct}?format=txt`);
+      const blob = new Blob([res.data.content], { type: 'text/plain' });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = res.data.filename;
+      document.body.appendChild(a);
+      a.click();
+      window.URL.revokeObjectURL(url);
+      document.body.removeChild(a);
+      toast.success("Scripts exportés !");
+    } catch (error) {
+      console.error("Erreur export:", error);
+      toast.error("Erreur d'export");
+    }
+  };
+
   const handleProductChange = (value) => {
     setSelectedProduct(value);
     fetchScripts(value);
@@ -122,7 +146,7 @@ const TikTokScripts = () => {
                 </SelectContent>
               </Select>
             </div>
-            <div className="flex items-end">
+            <div className="flex items-end gap-2">
               <Button
                 onClick={generateScripts}
                 disabled={generating || !selectedProduct}
@@ -133,6 +157,17 @@ const TikTokScripts = () => {
                 <Sparkle size={20} weight="bold" className="mr-2" />
                 {generating ? "Génération..." : "Générer 20 scripts"}
               </Button>
+              {scripts.length > 0 && (
+                <Button
+                  onClick={exportScripts}
+                  className="bg-[#34C759] hover:bg-[#2ea34a] text-white font-bold uppercase tracking-wide"
+                  style={{borderRadius: '2px'}}
+                  data-testid="export-scripts-btn"
+                >
+                  <Copy size={20} weight="bold" className="mr-2" />
+                  Exporter TXT
+                </Button>
+              )}
             </div>
           </div>
         </div>

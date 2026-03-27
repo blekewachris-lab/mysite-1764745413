@@ -8,6 +8,9 @@ import SalesPages from "@/pages/SalesPages";
 import Strategy from "@/pages/Strategy";
 import ActionPlan from "@/pages/ActionPlan";
 import Success from "@/pages/Success";
+import Store from "@/pages/Store";
+import Orders from "@/pages/Orders";
+import Customers from "@/pages/Customers";
 import { Toaster } from "@/components/ui/sonner";
 
 function App() {
@@ -22,6 +25,9 @@ function App() {
           <Route path="/sales-pages" element={<SalesPages />} />
           <Route path="/strategy" element={<Strategy />} />
           <Route path="/action-plan" element={<ActionPlan />} />
+          <Route path="/orders" element={<Orders />} />
+          <Route path="/customers" element={<Customers />} />
+          <Route path="/store" element={<Store />} />
           <Route path="/success" element={<Success />} />
         </Routes>
       </BrowserRouter>

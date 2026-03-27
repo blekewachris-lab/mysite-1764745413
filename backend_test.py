@@ -28,6 +28,8 @@ class EcommerceAPITester:
                 response = requests.post(url, json=data, headers=headers, timeout=timeout)
             elif method == 'DELETE':
                 response = requests.delete(url, headers=headers, timeout=timeout)
+            elif method == 'PATCH':
+                response = requests.patch(url, json=data, headers=headers, timeout=timeout)
 
             success = response.status_code == expected_status
             
@@ -250,8 +252,129 @@ class EcommerceAPITester:
         
         return success
 
+    def test_orders_endpoints(self):
+        """Test orders management endpoints (Phase 2)"""
+        print("\n" + "="*50)
+        print("TESTING ORDERS ENDPOINTS (PHASE 2)")
+        print("="*50)
+        
+        # Test getting orders (should be empty initially)
+        success1, orders = self.run_test("Get All Orders", "GET", "orders", 200)
+        
+        # Test creating an order
+        if hasattr(self, 'test_product_id'):
+            order_data = {
+                "product_id": self.test_product_id,
+                "quantity": 2,
+                "customer_email": "test@example.com",
+                "customer_name": "Test Customer"
+            }
+            success2, order_response = self.run_test("Create Order", "POST", "orders", 200, order_data)
+            
+            if success2 and 'id' in order_response:
+                self.test_order_id = order_response['id']
+                print(f"   Created order with ID: {self.test_order_id}")
+                
+                # Test getting specific order
+                success3, _ = self.run_test("Get Specific Order", "GET", f"orders/{self.test_order_id}", 200)
+                
+                # Test updating order status
+                success4, _ = self.run_test("Update Order Status", "PATCH", f"orders/{self.test_order_id}/status?status=paid", 200)
+                
+                # Test filtering orders by status
+                success5, _ = self.run_test("Filter Orders by Status", "GET", "orders?status=paid", 200)
+                
+                return success1 and success2 and success3 and success4 and success5
+            else:
+                return success1 and success2
+        else:
+            print("⚠️  Skipping order creation - no product ID available")
+            return success1
+
+    def test_customers_endpoints(self):
+        """Test customers CRM endpoints (Phase 2)"""
+        print("\n" + "="*50)
+        print("TESTING CUSTOMERS ENDPOINTS (PHASE 2)")
+        print("="*50)
+        
+        # Test getting customers
+        success1, customers = self.run_test("Get All Customers", "GET", "customers", 200)
+        
+        # If we created an order, there should be a customer
+        if success1 and customers and len(customers) > 0:
+            customer_email = customers[0]['email']
+            # Test getting customer orders
+            success2, _ = self.run_test("Get Customer Orders", "GET", f"customers/{customer_email}/orders", 200)
+            return success1 and success2
+        else:
+            print("   ℹ️  No customers found - this is expected if no orders were created")
+            return success1
+
+    def test_store_endpoints(self):
+        """Test public store endpoints (Phase 2)"""
+        print("\n" + "="*50)
+        print("TESTING STORE ENDPOINTS (PHASE 2)")
+        print("="*50)
+        
+        if hasattr(self, 'test_product_id'):
+            # Test store checkout (this will create a Stripe session)
+            checkout_data = {
+                "product_id": self.test_product_id,
+                "quantity": 1,
+                "customer_email": "store@example.com",
+                "customer_name": "Store Customer"
+            }
+            success, response = self.run_test("Store Checkout", "POST", "store/checkout", 200, checkout_data)
+            
+            if success and 'checkout_url' in response:
+                print(f"   ✅ Checkout URL generated successfully")
+                return True
+            else:
+                print("   ⚠️  Checkout response missing checkout_url")
+                return success
+        else:
+            print("⚠️  Skipping store checkout - no product ID available")
+            return False
+
+    def test_export_endpoints(self):
+        """Test content export endpoints (Phase 2)"""
+        print("\n" + "="*50)
+        print("TESTING EXPORT ENDPOINTS (PHASE 2)")
+        print("="*50)
+        
+        # Test TikTok scripts export
+        if hasattr(self, 'test_product_id'):
+            success1, response1 = self.run_test("Export TikTok Scripts", "GET", f"export/tiktok-scripts/{self.test_product_id}?format=txt", 200)
+            if success1 and 'content' in response1:
+                print(f"   ✅ TikTok scripts export contains {len(response1['content'])} characters")
+        else:
+            success1 = False
+            print("⚠️  Skipping TikTok export - no product ID available")
+        
+        # Test DM scripts export
+        success2, response2 = self.run_test("Export DM Scripts", "GET", "export/dm-scripts?format=txt", 200)
+        if success2 and 'content' in response2:
+            print(f"   ✅ DM scripts export contains {len(response2['content'])} characters")
+        
+        return success1 and success2
+
+    def test_analytics_products_endpoint(self):
+        """Test products analytics endpoint (Phase 2)"""
+        print("\n" + "="*50)
+        print("TESTING PRODUCTS ANALYTICS (PHASE 2)")
+        print("="*50)
+        
+        success, analytics = self.run_test("Get Products Analytics", "GET", "analytics/products", 200)
+        
+        if success and analytics:
+            print(f"   Found analytics for {len(analytics)} products")
+            for product_analytics in analytics[:3]:  # Show first 3
+                print(f"   - {product_analytics.get('product_name', 'Unknown')}: {product_analytics.get('total_sales', 0)}€ sales")
+        
+        return success
+
 def main():
-    print("🚀 Starting E-commerce API Testing")
+    print("🚀 Starting E-commerce API Testing - PHASE 2 FEATURES")
     print("="*60)
     
     tester = EcommerceAPITester()
@@ -271,9 +394,10 @@ def main():
     # Test analytics
     tester.test_analytics_endpoints()
 
-    # Test content generation (this will take time)
-    if products_success:
-        tester.test_generation_endpoints()
+    # Test content generation (this will take time) - SKIP for budget reasons
+    print("\n⚠️  SKIPPING CONTENT GENERATION TESTS (Budget limited as per instructions)")
+    # if products_success:
+    #     tester.test_generation_endpoints()
 
     # Test strategy endpoints
     tester.test_strategy_endpoints()
@@ -281,9 +405,31 @@ def main():
     # Test payment endpoints
     tester.test_payment_endpoints()
 
+    # ===== PHASE 2 NEW FEATURES =====
+    print("\n" + "🆕"*20)
+    print("TESTING PHASE 2 NEW FEATURES")
+    print("🆕"*20)
+
+    # Test orders management
+    if products_success:
+        tester.test_orders_endpoints()
+
+    # Test customers CRM
+    tester.test_customers_endpoints()
+
+    # Test public store
+    if products_success:
+        tester.test_store_endpoints()
+
+    # Test export functionality
+    tester.test_export_endpoints()
+
+    # Test products analytics
+    tester.test_analytics_products_endpoint()
+
     # Print final results
     print("\n" + "="*60)
-    print("📊 FINAL TEST RESULTS")
+    print("📊 FINAL TEST RESULTS - PHASE 2")
     print("="*60)
     print(f"Tests run: {tester.tests_run}")
     print(f"Tests passed: {tester.tests_passed}")
